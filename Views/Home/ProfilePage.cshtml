@@ -1,0 +1,137 @@
+﻿@model  Tuple<UserProfile, IEnumerable<RoomReservation>>;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Profile";
+    Layout = "/Views/Shared/_HomeLayout.cshtml";
+}
+
+<style>
+    .nav-tabs .nav-link {
+        color: #4154f1; /* Set the color for unselected tabs */
+        border: none;
+        background-color: transparent;
+        font-weight: 500;
+    }
+
+        /* Change the background and border when a tab is hovered */
+        .nav-tabs .nav-link:hover {
+            background-color: rgba(65, 84, 241, 0.1); /* Add a subtle background */
+        }
+
+        /* Keep the selected (active) tab using default Bootstrap styles */
+        .nav-tabs .nav-link.active {
+            color: #fff;
+            background-color: #4154f1; /* Use Bootstrap's primary color */
+            border-color: #007bff;
+        }
+</style>
+
+<div class="container my-5">
+    <!-- Tabs -->
+    <ul class="nav nav-tabs" id="profileTabs" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="profile-info-tab" data-bs-toggle="tab" data-bs-target="#profile-info" type="button" role="tab" aria-controls="profile-info" aria-selected="true">Profile Info</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="edit-info-tab" data-bs-toggle="tab" data-bs-target="#edit-info" type="button" role="tab" aria-controls="edit-info" aria-selected="false">Edit Info</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="reservation-history-tab" data-bs-toggle="tab" data-bs-target="#reservation-history" type="button" role="tab" aria-controls="reservation-history" aria-selected="false">Reservation History</button>
+        </li>
+    </ul>
+
+    <!-- Tab Content -->
+    <div class="tab-content mt-4" id="profileTabsContent">
+        <!-- Profile Info Tab -->
+        <div class="tab-pane fade show active" id="profile-info" role="tabpanel" aria-labelledby="profile-info-tab">
+            <div class="d-flex align-items-center mb-4">
+                <img src="@Url.Content("~/UsersImages/"+Model.Item1.ProfilePicture)" alt="Profile Picture" class="rounded-circle me-4" style="width: 150px; height: 150px; object-fit: cover;">
+                <div>
+                    <h4>@Model.Item1.FirstName @Model.Item1.LastName</h4>
+                    <p>Email: @ViewBag.userEmail</p>
+                    <p>Phone: @Model.Item1.PhoneNumber</p>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Edit Info Tab -->
+        <div class="tab-pane fade" id="edit-info" role="tabpanel" aria-labelledby="edit-info-tab">
+            <h4>Edit Profile Info</h4>
+            <form  asp-action="ProfilePage" method="post" enctype="multipart/form-data">
+                <input name="uid" hidden value="@Model.Item1.UserId"/>
+                <div class="mb-3">
+                    <label for="ProfileImage" class="form-label">Profile Image</label>
+                    <input name="ProfileImage" type="file" id="ProfileImage" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label for="FirstName" class="form-label">First Name</label>
+                    <input name="FirstName" id="FirstName" class="form-control" value="@Model.Item1.FirstName">
+                </div>
+                <div class="mb-3">
+                    <label for="LastName" class="form-label">Last Name</label>
+                    <input name="LastName" id="LastName" class="form-control" value="@Model.Item1.LastName">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" name="email" class="form-control" id="email" value="@ViewBag.userEmail">
+                </div>
+                <div class="mb-3">
+                    <label for="PhoneNumber" class="form-label">Phone</label>
+                    <input name="PhoneNumber" id="PhoneNumber" class="form-control" value="@Model.Item1.PhoneNumber">
+                </div>
+                <button type="submit" class="btn btn-primary" style="border: none; background-color: #4154f1; border-radius: 20px">Save Changes</button>
+            </form>
+        </div>
+
+        <!-- Reservation History Tab -->
+        <div class="tab-pane fade" id="reservation-history" role="tabpanel" aria-labelledby="reservation-history-tab">
+            <h4>Reservation History</h4>
+            <div class="container">
+                <div class="row">
+                    @foreach (var reservation in Model.Item2)
+                    {
+                        <div class="col-md-6 col-lg-4 mb-4">
+                            <div class="card h-100">
+                                @if (reservation.Room == null)
+                                {
+
+
+
+                                    <img src="https://static.dezeen.com/uploads/2023/07/big-icon-wolf-ranch-3d-printed-model-texas_dezeen_2364_col_6-1704x1136.jpg" class="card-img-top" alt="Hotel Image">
+                                }
+                                else
+                                {
+                                    <img src="@Url.Content("~/RoomsImages/" + reservation.Room.RoomImage)" class="card-img-top" alt="Hotel Image">
+
+                                }
+                            <div class="card-body">
+                                @if (reservation.Room == null)
+                                {
+                                    <h5 class="card-title">Room</h5>
+
+                                }
+                                else
+                                {
+                                    <h5 class="card-title">@reservation.Room.RoomName</h5>
+
+                                }
+                                <p class="card-text"><strong>Check-in Date:</strong> @reservation.CheckInDate.Value.ToString("yyyy-MM-dd")</p>
+                                <p class="card-text"><strong>Check-out Date:</strong> @reservation.CheckOutDate.Value.ToString("yyyy-MM-dd")</p>
+                                <p class="card-text"><strong>Total Amount:</strong> $@reservation.TotalPrice</p>
+                                <p class="card-text"><strong>Reserved In: </strong> @reservation.CreatedAt.Value.ToString("yyyy-MM-dd")</p>
+                            </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+
+<!-- Bootstrap 5 JS (Popper included) -->
+<!--<script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.min.js"></script>-->

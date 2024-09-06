@@ -1,0 +1,60 @@
+@model funduq.Models.Hotel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="pagetitle">
+    <h1>Create Hotel</h1>
+
+</div>
+
+@if (TempData["Alert"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Alert"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HotelName" class="control-label">Hotel Name</label>
+                <input asp-for="HotelName" class="form-control" required />
+                <span asp-validation-for="HotelName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HotelImage" class="control-label">Hotel Picture</label>
+                <input asp-for="HotelImage" class="form-control" required />
+                @* <span asp-validation-for="HotalImage" class="text-danger"></span> *@
+            </div>
+            <div class="form-group">
+                <label asp-for="HotelCity" class="control-label">Hotel City</label>
+                <select asp-for="HotelCity" class="form-control" asp-items="ViewBag.HotelCity" required></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberOfStars" class="control-label">Number Of Stars</label>
+                <input asp-for="NumberOfStars" min="1" max="5" required class="form-control" />
+                <span asp-validation-for="NumberOfStars" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsFeaturedHotel" class="control-label">Is it featured?</label>
+                <input asp-for="IsFeaturedHotel" required class="form-control" />
+                <span asp-validation-for="IsFeaturedHotel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" style="border: none; background-color: #4154f1;" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Hotels" asp-controller="Admin">Back to List</a>
+</div>
+

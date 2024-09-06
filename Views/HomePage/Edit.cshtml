@@ -1,0 +1,101 @@
+@model funduq.Models.HomePage
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+<a asp-action="HomePageSettings" asp-controller="Admin" style="margin: 20px">
+    <i class="bi bi-arrow-left" style="color: #4154f1;font-size: large;"></i>
+    <span style="color: #4154f1;">Back</span>
+</a>
+<div class="pagetitle">
+    <h1>Edit Home Page</h1>
+</div>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="HomeId" />
+            <input name="id" value="@Model.HomeId" hidden />
+            <div class="form-group">
+                <label asp-for="LogoFile" class="control-label">Upload Logo</label>
+                <input asp-for="LogoFile" class="form-control"  />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="FaviconFile" class="control-label">Upload Favicon</label>
+                <input asp-for="FaviconFile" class="form-control"  />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="BackgroundImageFile" class="control-label">Background Image</label>
+                <input asp-for="BackgroundImageFile" class="form-control"  />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="TestimonialsBackgroundImage" class="control-label">Testimonials Background Image</label>
+                <input asp-for="TestimonialsBackgroundImage" class="form-control"  />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TopTitle" class="control-label">Welcome Sentence</label>
+                <input asp-for="TopTitle" class="form-control" required />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="TopSubtitle" class="control-label">Slogan</label>
+                <input asp-for="TopSubtitle" class="form-control" required />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="SearchPlacholder" class="control-label">Search Placeholder</label>
+                <input asp-for="SearchPlacholder" class="form-control" required />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="HomeLogoText" class="control-label">Company Name</label>
+                <input asp-for="HomeLogoText" class="form-control" required />
+                <span asp-validation-for="HomeLogoText" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AboutUsImageFile" class="control-label">About Us Image</label>
+                <input asp-for="AboutUsImageFile" class="form-control" />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="AboutUsParagraph" class="control-label">About Us Content</label>
+                <textarea asp-for="AboutUsParagraph" class="form-control" rows="4" required></textarea>
+                <span asp-validation-for="AboutUsParagraph" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ContactId" class="control-label">Contact Us Data</label>
+                <select asp-for="ContactId" class="form-control" asp-items="ViewBag.ContactId" required></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="XUrl" class="control-label">X Account Url</label>
+                <input asp-for="XUrl" class="form-control" required />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="FacebookUrl" class="control-label">Facebook Account Url</label>
+                <input asp-for="FacebookUrl" class="form-control" required />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="InstagramUrl" class="control-label">Instagram Account Url</label>
+                <input asp-for="InstagramUrl" class="form-control" required />
+                @*<span asp-validation-for="HomeLogoImage" class="text-danger"></span>*@
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+

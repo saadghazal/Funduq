@@ -1,0 +1,111 @@
+﻿@model Tuple<Hotel, IEnumerable<Room>, IEnumerable<HotelService>>;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = @Model.Item1.HotelName;
+    Layout = "/Views/Shared/_HomeLayout.cshtml";
+}
+
+<!-- Page Title -->
+<div class="page-title light-background">
+    <div class="container d-lg-flex justify-content-between align-items-center">
+        <h1 class="mb-2 mb-lg-0">@Model.Item1.HotelName</h1>
+        <nav class="breadcrumbs">
+            <ol>
+                <li><a asp-action="HotelsPage">Hotels</a></li>
+                <li class="current">Rooms</li>
+            </ol>
+        </nav>
+    </div>
+</div><!-- End Page Title -->
+<!-- Why Us Section -->
+<section id="why-us" class="why-us section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Service</h2>
+        <div><span>Check Out</span> <span class="description-title">Our Services</span></div>
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            @for (int service = 0; service < Model.Item3.Count(); service++)
+                {
+                <div class="col-lg-3 text-center" data-aos="fade-up" data-aos-delay="100"  >
+                    <div class="card-item" style="padding:0;border-radius:12px">
+                        @if ((service + 1) >= 10)
+                        {
+                            <span>@($"{service + 1}")</span>
+                        }
+                        else
+                        {
+                            <span>@($"0{service+1}")</span>
+
+                        }
+
+                        <h4><a class="stretched-link">@Model.Item3.ElementAt(service).ServiceType</a></h4>
+
+                    </div>
+                </div><!-- Card Item -->
+            }
+
+        </div>
+
+    </div>
+
+</section><!-- /Why Us Section -->
+
+
+<section id="hotels" class="portfolio section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Rooms</h2>
+        <div><span>Check Our</span> <span class="description-title">Rooms & Suites</span></div>
+    </div><!-- End Section Title -->
+
+    <div class="container">
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+
+            <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+                @foreach (var room in Model.Item2)
+                {
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item">
+                        <div class="portfolio-content h-100">
+                            <img src="@Url.Content("~/RoomsImages/"+room.RoomImage)" asp-append-version="true" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4><a asp-action="RoomPage" asp-route-roomId="@room.RoomId" title="More Details">@room.RoomName</a></h4>
+                                <ul style="margin: 0; padding: 0; list-style-type:none">
+
+                                    <li>
+                                        <strong> Room Type </strong> <span> @room.Type.RoomType1 </span>
+                                    </li>
+                                    <li>
+                                        <strong> $@room.NightPrice </strong> <span> Per Night </span>
+                                    </li>
+                                    <li>
+                                        <strong>
+                                            Beds:
+                                        </strong>
+                                        <span>@($" {room.NumberOfBeds}")</span>
+                                    </li>
+
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div><!-- End Portfolio Item -->
+                }
+            </div><!-- End Portfolio Container -->
+
+        </div>
+
+    </div>
+
+</section><!-- /Portfolio Section -->

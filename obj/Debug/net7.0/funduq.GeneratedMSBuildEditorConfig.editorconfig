@@ -1,0 +1,305 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = funduq
+build_property.RootNamespace = funduq
+build_property.ProjectDir = /Users/saadghazal/aspProjects/funduq/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/saadghazal/aspProjects/funduq
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/AdminTestimonials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRtaW5UZXN0aW1vbmlhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/Cities.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ2l0aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQ29udGFjdFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/HomePageSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSG9tZVBhZ2VTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/HotelRooms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSG90ZWxSb29tcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/Hotels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSG90ZWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/HotelServices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSG90ZWxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/RegisteredUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUmVnaXN0ZXJlZFVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/Reservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vUmVzZXJ2YXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Admin/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVXNlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/AdminProfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5Qcm9maWxlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Authentication/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aGVudGljYXRpb24vQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Authentication/AdminRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aGVudGljYXRpb24vQWRtaW5SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Authentication/UserLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aGVudGljYXRpb24vVXNlckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Authentication/UserRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aGVudGljYXRpb24vVXNlclJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/City/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/City/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/City/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/City/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/City/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/ContactUs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdFVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/ContactUs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdFVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/ContactUs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdFVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/ContactUs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdFVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/ContactUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdFVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Error/AdminError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXJyb3IvQWRtaW5FcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Error/UserError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXJyb3IvVXNlckVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/HotelPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ib3RlbFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/HotelsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ib3RlbHNQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9QYXltZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/ProfilePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9maWxlUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/RoomPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Sb29tUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/SuccessfullyPurchased.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWNjZXNzZnVsbHlQdXJjaGFzZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Home/Testimonials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZXN0aW1vbmlhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HomePage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZVBhZ2UvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HomePage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZVBhZ2UvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HomePage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZVBhZ2UvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HomePage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZVBhZ2UvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HomePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZVBhZ2UvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Hotel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWwvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Hotel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWwvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Hotel/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWwvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Hotel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWwvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Hotel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWwvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HotelService/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWxTZXJ2aWNlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HotelService/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWxTZXJ2aWNlL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HotelService/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWxTZXJ2aWNlL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HotelService/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWxTZXJ2aWNlL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/HotelService/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG90ZWxTZXJ2aWNlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Room/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9vbS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Room/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9vbS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Room/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9vbS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Room/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9vbS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Room/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9vbS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Search/SearchedHotels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoL1NlYXJjaGVkSG90ZWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Shared/_HomeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Ib21lTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/SpecialEvent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbEV2ZW50L0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/SpecialEvent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbEV2ZW50L0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/SpecialEvent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbEV2ZW50L0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/SpecialEvent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbEV2ZW50L0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/SpecialEvent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lhbEV2ZW50L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/saadghazal/aspProjects/funduq/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ru43osnqun

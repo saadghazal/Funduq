@@ -1,0 +1,231 @@
+@model IEnumerable<RoomReservation>;
+
+@{
+    ViewBag.Title = "Dashboard";
+}
+@{
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+
+<div class="pagetitle">
+      <h1>Dashboard</h1>
+      
+    </div><!-- End Page Title -->
+
+    <section class="section dashboard">
+      <div class="row">
+
+        <!-- Left side columns -->
+        <div >
+            <div class="row">
+
+                <!-- Sales Card -->
+                <div class="col-xxl-4 col-md-6">
+                    <div class="card info-card sales-card">
+
+
+
+                        <div class="card-body">
+                            <h5 class="card-title">Sales <span>| This Month</span></h5>
+
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                                    <i class="bi bi-cart"></i>
+                                </div>
+                                <div class="ps-3">
+                                    <h6>@ViewBag.MonthSales</h6>
+                                    @*<span class="text-success small pt-1 fw-bold">12%</span> <span class="text-muted small pt-2 ps-1">increase</span>*@
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div><!-- End Sales Card -->
+                <!-- Revenue Card -->
+                <div class="col-xxl-4 col-md-6">
+                    <div class="card info-card revenue-card">
+
+
+
+                        <div class="card-body">
+                            <h5 class="card-title">Revenue <span>| This Month</span></h5>
+
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                                    <i class="bi bi-currency-dollar"></i>
+                                </div>
+                                <div class="ps-3">
+                                    <h6>$@ViewBag.MonthIncome</h6>
+                                    @*<span class="text-success small pt-1 fw-bold">8%</span> <span class="text-muted small pt-2 ps-1">increase</span>*@
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div><!-- End Revenue Card -->
+                <!-- Customers Card -->
+                <div class="col-xxl-4 col-xl-12">
+
+                    <div class="card info-card customers-card">
+
+
+                        <div class="card-body">
+                            <h5 class="card-title">Customers</h5>
+
+                            <div class="d-flex align-items-center">
+                                <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
+                                    <i class="bi bi-people"></i>
+                                </div>
+                                <div class="ps-3">
+                                    <h6>@ViewBag.CustomersQuantity</h6>
+                                    @*<span class="text-danger small pt-1 fw-bold">12%</span> <span class="text-muted small pt-2 ps-1">decrease</span>*@
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div><!-- End Customers Card -->
+                <!-- Reports for each week in this month -->
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Reports <span>/Weekly for this Month</span></h5>
+
+                            <!-- Line Chart -->
+                            <div id="reportsChart"></div>
+
+                            <script>document.addEventListener("DOMContentLoaded", () => {
+                                    new ApexCharts(document.querySelector("#reportsChart"), {
+                                        series: [{
+                                            name: 'Sales',
+                                            data: [@ViewBag.FirstWeekSales, @ViewBag.SecondWeekSales, @ViewBag.ThirdWeekSales, @ViewBag.ForthWeekSales] // Weekly sales data
+                                        }, {
+                                            name: 'Revenue',
+                                            data: [@ViewBag.FirstWeekIncome, @ViewBag.SecondWeekIncome, @ViewBag.ThirdWeekIncome, @ViewBag.ForthWeekIncome] // Weekly revenue data
+                                        }, {
+                                            name: 'New Customers',
+                                            data: [@ViewBag.FirstWeekCustomers, @ViewBag.SecondWeekCustomers, @ViewBag.ThirdWeekCustomers, @ViewBag.ForthWeekCustomers] // Weekly customers data
+                                        }],
+                                        chart: {
+                                            height: 350,
+                                            type: 'area',
+                                            toolbar: {
+                                                show: false
+                                            },
+                                        },
+                                        markers: {
+                                            size: 4
+                                        },
+                                        colors: ['#4154f1', '#2eca6a', '#ff771d'],
+                                        fill: {
+                                            type: "gradient",
+                                            gradient: {
+                                                shadeIntensity: 1,
+                                                opacityFrom: 0.3,
+                                                opacityTo: 0.4,
+                                                stops: [0, 90, 100]
+                                            }
+                                        },
+                                        dataLabels: {
+                                            enabled: false
+                                        },
+                                        stroke: {
+                                            curve: 'smooth',
+                                            width: 2
+                                        },
+                                        xaxis: {
+                                            type: 'datetime',
+                                            categories: [
+                                                `@ViewBag.FirstWeek.ToString("yyyy-MM-dd HH:mm:ss")`, // Start of Week 1
+                                                `@ViewBag.SecondWeek.ToString("yyyy-MM-dd HH:mm:ss")`, // Start of Week 2
+                                                `@ViewBag.ThirdWeek.ToString("yyyy-MM-dd HH:mm:ss")`, // Start of Week 3
+                                                `@ViewBag.ForthWeek.ToString("yyyy-MM-dd HH:mm:ss")`, // Start of Week 4
+                                            ]
+                                        },
+                                        tooltip: {
+                                            x: {
+                                                format: 'dd MMM'
+                                            },
+                                        }
+                                    }).render();
+                                });</script>
+                            <!-- End Line Chart -->
+
+                        </div>
+                    </div>
+                </div><!-- End Reports -->
+                <!-- Recent Sales -->
+                <div class="col-12">
+                    <div class="card recent-sales overflow-auto">
+
+                        
+
+                        <div class="card-body">
+                            <h5 class="card-title">Recent Reservations</h5>
+
+                            <table class="table table-borderless">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">User</th>
+                                        <th scope="col">Customer</th>
+                                        <th scope="col">Hotel</th>
+                                        <th scope="col">Room</th>
+                                        <th scope="col">Paid</th>
+                                        <th scope="col">Reserved At</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var reservation in Model)
+                                    {
+                                        <tr>
+                                            <th scope="row"><a asp-route-userId="@reservation.UserId" asp-action="UserDetails"> <img src="@Url.Content("~/UsersImages/"+reservation.User.ProfilePicture)" asp-append-version="true" style="height:50px; width: 50px;object-fit:cover;clip-path:circle()" alt=""></a></th>
+                                            <td>@reservation.User.FirstName @reservation.User.LastName</td>
+                                            @if (reservation.Room == null)
+                                            {
+                                                <td><a asp-action="Hotels" class="text-primary">Hotel</a></td>
+
+                                            }
+                                            else
+                                            {
+                                                <td><a asp-action="Details" asp-controller="Hotel" asp-route-id="@reservation.Room.HotelId" class="text-primary">@reservation.Room.Hotel.HotelName</a></td>
+
+                                            }
+                                            @if (reservation.Room == null)
+                                            {
+                                                <td><a asp-action="Hotels" class="text-primary">Room</a></td>
+
+                                            }
+                                            else
+                                            {
+                                                <td><a asp-action="Details" asp-controller="Room" asp-route-id="@reservation.RoomId" class="text-primary">@reservation.Room.RoomName</a></td>
+
+                                            }
+                                            <td>$@reservation.TotalPrice</td>
+                                            <td><span class="badge bg-success">@reservation.CreatedAt.Value.ToString("yyyy-MM-dd")</span></td>
+                                        </tr>
+
+
+                                    }
+
+                                </tbody>
+                                </table>
+
+                        </div>
+
+                    </div>
+                </div><!-- End Recent Sales -->
+               
+
+            </div>
+        </div><!-- End Left side columns -->
+
+       
+      </div>
+    </section>

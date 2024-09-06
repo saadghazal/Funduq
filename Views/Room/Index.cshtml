@@ -1,0 +1,90 @@
+@model IEnumerable<funduq.Models.Room>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfRooms)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NightPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoomDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfBeds)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoomImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsAvailable)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HasOffer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsBreakfastIncluded)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hotel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumberOfRooms)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NightPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumberOfBeds)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsAvailable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HasOffer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsBreakfastIncluded)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hotel.HotelId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type.TypeId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.RoomId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.RoomId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.RoomId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

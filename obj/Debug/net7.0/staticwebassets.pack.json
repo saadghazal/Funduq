@@ -1,0 +1,3545 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/obj/Debug/net7.0/scopedcss/projectbundle/funduq.bundle.scp.css",
+      "PackagePath": "staticwebassets/funduq.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AboutImages/524d1f96-b178-4837-b279-4677accad638_c4d93276-15b0-4f51-bc52-d18580cbb4af_hotel_stuff.png",
+      "PackagePath": "staticwebassets/AboutImages/524d1f96-b178-4837-b279-4677accad638_c4d93276-15b0-4f51-bc52-d18580cbb4af_hotel_stuff.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AboutImages/77772f02-835a-48db-b98d-f77ad0b5e0df_hotel_stuff.png",
+      "PackagePath": "staticwebassets/AboutImages/77772f02-835a-48db-b98d-f77ad0b5e0df_hotel_stuff.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AboutImages/ab9fd2d2-e4a0-48b2-8ece-d3603d57da91_slide-about-1.jpg",
+      "PackagePath": "staticwebassets/AboutImages/ab9fd2d2-e4a0-48b2-8ece-d3603d57da91_slide-about-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AboutImages/afe6658e-8da2-4ef6-94da-4b5731407bbd_hotel_stuff.png",
+      "PackagePath": "staticwebassets/AboutImages/afe6658e-8da2-4ef6-94da-4b5731407bbd_hotel_stuff.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AboutImages/c4d93276-15b0-4f51-bc52-d18580cbb4af_hotel_stuff.png",
+      "PackagePath": "staticwebassets/AboutImages/c4d93276-15b0-4f51-bc52-d18580cbb4af_hotel_stuff.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AboutImages/d29e4715-05c8-484f-aac7-b470c3192863_hotel_stuff.png",
+      "PackagePath": "staticwebassets/AboutImages/d29e4715-05c8-484f-aac7-b470c3192863_hotel_stuff.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AboutImages/d6418d2e-509f-468c-9272-8285373b32dc_hotel_stuff.png",
+      "PackagePath": "staticwebassets/AboutImages/d6418d2e-509f-468c-9272-8285373b32dc_hotel_stuff.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/css/style.css",
+      "PackagePath": "staticwebassets/AdminDesign/css/style.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/AdminDesign/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/card.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/card.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/favicon.png",
+      "PackagePath": "staticwebassets/AdminDesign/img/favicon.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/logo.png",
+      "PackagePath": "staticwebassets/AdminDesign/img/logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/messages-1.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/messages-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/messages-2.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/messages-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/messages-3.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/messages-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/news-1.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/news-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/news-2.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/news-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/news-3.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/news-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/news-4.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/news-4.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/news-5.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/news-5.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/not-found.svg",
+      "PackagePath": "staticwebassets/AdminDesign/img/not-found.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/product-1.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/product-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/product-2.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/product-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/product-3.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/product-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/product-4.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/product-4.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/product-5.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/product-5.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/profile-img.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/profile-img.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/slides-1.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/slides-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/slides-2.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/slides-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/img/slides-3.jpg",
+      "PackagePath": "staticwebassets/AdminDesign/img/slides-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/js/main.js",
+      "PackagePath": "staticwebassets/AdminDesign/js/main.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/scss/Readme.txt",
+      "PackagePath": "staticwebassets/AdminDesign/scss/Readme.txt"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/apexcharts.amd.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/apexcharts.amd.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/apexcharts.common.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/apexcharts.common.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/apexcharts.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/apexcharts.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/apexcharts.esm.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/apexcharts.esm.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/apexcharts.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/apexcharts.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/apexcharts.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/apexcharts.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/ar.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/ar.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/be-cyrl.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/be-cyrl.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/be-latn.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/be-latn.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/ca.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/ca.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/cs.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/cs.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/da.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/da.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/de.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/de.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/el.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/el.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/en.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/en.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/es.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/es.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/et.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/et.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/fa.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/fa.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/fi.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/fi.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/fr.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/fr.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/he.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/he.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/hi.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/hi.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/hr.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/hr.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/hu.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/hu.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/hy.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/hy.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/id.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/id.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/it.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/it.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/ja.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/ja.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/ka.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/ka.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/ko.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/ko.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/lt.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/lt.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/lv.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/lv.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/ms.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/ms.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/nb.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/nb.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/nl.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/nl.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/pl.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/pl.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/pt-br.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/pt-br.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/pt.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/pt.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/rs.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/rs.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/ru.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/ru.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/se.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/se.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/sk.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/sk.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/sl.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/sl.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/sq.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/sq.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/th.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/th.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/tr.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/tr.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/ua.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/ua.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/vi.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/vi.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/zh-cn.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/zh-cn.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/apexcharts/locales/zh-tw.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/apexcharts/locales/zh-tw.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/css/animations.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/css/animations.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/css/boxicons.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/css/boxicons.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/css/boxicons.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/css/boxicons.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/css/transformations.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/css/transformations.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/fonts/boxicons.eot",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/fonts/boxicons.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/fonts/boxicons.svg",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/fonts/boxicons.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/fonts/boxicons.ttf",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/fonts/boxicons.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/fonts/boxicons.woff",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/fonts/boxicons.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/boxicons/fonts/boxicons.woff2",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/boxicons/fonts/boxicons.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chart.cjs",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chart.cjs"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chart.cjs.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chart.cjs.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chart.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chart.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chart.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chart.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chart.umd.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chart.umd.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chart.umd.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chart.umd.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chunks/helpers.segment.cjs",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chunks/helpers.segment.cjs"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chunks/helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chunks/helpers.segment.cjs.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chunks/helpers.segment.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chunks/helpers.segment.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/chunks/helpers.segment.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/chunks/helpers.segment.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/controller.bar.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/controller.bar.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/controller.bubble.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/controller.bubble.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/controller.doughnut.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/controller.line.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/controller.line.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/controller.pie.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/controller.pie.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/controller.polarArea.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/controller.radar.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/controller.radar.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/controller.scatter.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/controller.scatter.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/controllers/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/controllers/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.adapters.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.adapters.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.animation.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.animation.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.animations.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.animations.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.animator.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.animator.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.config.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.config.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.controller.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.controller.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.datasetController.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.datasetController.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.defaults.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.defaults.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.element.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.element.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.interaction.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.interaction.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.layouts.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.layouts.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.plugins.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.plugins.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.registry.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.registry.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.scale.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.scale.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.ticks.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.ticks.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/core/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/core/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/elements/element.arc.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/elements/element.arc.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/elements/element.bar.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/elements/element.bar.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/elements/element.line.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/elements/element.line.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/elements/element.point.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/elements/element.point.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/elements/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/elements/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers.cjs",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers.cjs"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers.cjs.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers.cjs.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.canvas.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.collection.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.collection.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.color.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.color.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.config.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.config.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.config.types.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.core.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.core.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.curve.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.curve.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.dom.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.dom.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.easing.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.easing.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.extras.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.extras.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.intl.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.intl.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.math.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.math.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.options.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.options.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.rtl.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/helpers.segment.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/helpers.segment.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/helpers/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/helpers/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/index.umd.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/index.umd.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/platform/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/platform/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/platform/platform.base.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/platform/platform.base.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/platform/platform.basic.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/platform/platform.basic.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/platform/platform.dom.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/platform/platform.dom.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.colors.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.colors.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.decimation.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.drawing.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.drawing.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.helper.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.helper.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.options.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.options.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.segment.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.segment.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.target.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.target.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.filler/filler.target.stack.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.filler/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.filler/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.filler/simpleArc.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.filler/simpleArc.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.legend.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.legend.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.title.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.title.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/plugins/plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/plugins/plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/scales/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/scales/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/scales/scale.category.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/scales/scale.category.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/scales/scale.linear.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/scales/scale.linear.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/scales/scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/scales/scale.linearbase.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/scales/scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/scales/scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/scales/scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/scales/scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/scales/scale.time.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/scales/scale.time.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/scales/scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/scales/scale.timeseries.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/types.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/types.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/types/animation.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/types/animation.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/types/basic.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/types/basic.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/types/color.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/types/color.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/types/geometric.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/types/geometric.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/types/index.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/types/index.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/types/layout.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/types/layout.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/chart.js/types/utils.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/chart.js/types/utils.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.common.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.common.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.common.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.common.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.common.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.common.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.esm.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.esm.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.esm.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.esm.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.esm.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.esm.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.esm.min.mjs",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.esm.min.mjs"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.esm.mjs",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.esm.mjs"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.esm.mjs.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.esm.mjs.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.simple.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.simple.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.simple.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.simple.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/echarts.simple.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/echarts.simple.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/extension/bmap.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/extension/bmap.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/extension/bmap.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/extension/bmap.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/extension/bmap.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/extension/bmap.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/extension/dataTool.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/extension/dataTool.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/extension/dataTool.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/extension/dataTool.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/extension/dataTool.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/extension/dataTool.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/echarts/package.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/echarts/package.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/php-email-form/validate.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/php-email-form/validate.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.bubble.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.bubble.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.bubble.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.bubble.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.core.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.core.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.core.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.core.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.core.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.core.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.core.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.core.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.core.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.core.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.js.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.snow.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.snow.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/quill/quill.snow.css.map",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/quill/quill.snow.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.eot",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.glyph.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.glyph.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.less",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.less"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.svg",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.symbol.svg",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.symbol.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.ttf",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.woff",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/remixicon/remixicon.woff2",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/remixicon/remixicon.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/simple-datatables/simple-datatables.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/simple-datatables/simple-datatables.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/simple-datatables/style.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/simple-datatables/style.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/CHANGELOG.md",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/CHANGELOG.md"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/README.md",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/README.md"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/bower.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/bower.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/composer.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/composer.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/icons/default/icons.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/icons/default/icons.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/icons/default/icons.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/icons/default/icons.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/icons/default/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/icons/default/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/license.md",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/license.md"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/models/dom/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/models/dom/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/models/dom/model.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/models/dom/model.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/models/dom/model.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/models/dom/model.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/package.json",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/package.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/accordion/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/accordion/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/accordion/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/accordion/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/accordion/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/accordion/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/advlist/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/advlist/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/advlist/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/advlist/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/advlist/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/advlist/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/anchor/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/anchor/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/anchor/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/anchor/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/anchor/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/anchor/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autolink/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autolink/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autolink/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autolink/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autolink/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autolink/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autoresize/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autoresize/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autoresize/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autoresize/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autoresize/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autoresize/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autosave/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autosave/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autosave/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autosave/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/autosave/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/autosave/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/charmap/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/charmap/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/charmap/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/charmap/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/charmap/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/charmap/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/code/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/code/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/code/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/code/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/code/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/code/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/codesample/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/codesample/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/codesample/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/codesample/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/codesample/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/codesample/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/directionality/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/directionality/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/directionality/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/directionality/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/directionality/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/directionality/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/emoticons/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/emoticons/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/emoticons/js/emojiimages.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/emoticons/js/emojiimages.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/emoticons/js/emojiimages.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/emoticons/js/emojiimages.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/emoticons/js/emojis.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/emoticons/js/emojis.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/emoticons/js/emojis.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/emoticons/js/emojis.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/emoticons/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/emoticons/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/emoticons/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/emoticons/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/fullscreen/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/fullscreen/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/fullscreen/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/fullscreen/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/fullscreen/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/fullscreen/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ar.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ar.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/bg_BG.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/bg_BG.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ca.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ca.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/cs.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/cs.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/da.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/da.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/de.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/de.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/el.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/el.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/en.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/en.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/es.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/es.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/eu.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/eu.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/fa.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/fa.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/fi.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/fi.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/fr_FR.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/fr_FR.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/he_IL.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/he_IL.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/hi.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/hi.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/hr.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/hr.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/hu_HU.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/hu_HU.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/id.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/id.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/it.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/it.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ja.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ja.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/kk.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/kk.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ko_KR.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ko_KR.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ms.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ms.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/nb_NO.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/nb_NO.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/nl.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/nl.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/pl.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/pl.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/pt_BR.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/pt_BR.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/pt_PT.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/pt_PT.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ro.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ro.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ru.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/ru.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/sk.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/sk.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/sl_SI.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/sl_SI.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/sv_SE.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/sv_SE.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/th_TH.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/th_TH.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/tr.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/tr.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/uk.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/uk.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/vi.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/vi.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/zh_CN.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/zh_CN.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/zh_TW.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/js/i18n/keynav/zh_TW.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/help/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/help/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/image/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/image/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/image/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/image/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/image/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/image/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/importcss/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/importcss/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/importcss/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/importcss/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/importcss/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/importcss/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/insertdatetime/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/insertdatetime/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/insertdatetime/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/insertdatetime/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/insertdatetime/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/insertdatetime/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/link/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/link/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/link/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/link/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/link/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/link/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/lists/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/lists/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/lists/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/lists/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/lists/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/lists/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/media/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/media/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/media/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/media/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/media/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/media/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/nonbreaking/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/nonbreaking/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/nonbreaking/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/nonbreaking/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/nonbreaking/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/nonbreaking/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/pagebreak/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/pagebreak/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/pagebreak/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/pagebreak/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/pagebreak/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/pagebreak/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/preview/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/preview/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/preview/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/preview/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/preview/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/preview/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/quickbars/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/quickbars/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/quickbars/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/quickbars/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/quickbars/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/quickbars/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/save/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/save/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/save/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/save/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/save/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/save/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/searchreplace/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/searchreplace/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/searchreplace/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/searchreplace/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/searchreplace/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/searchreplace/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/table/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/table/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/table/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/table/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/table/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/table/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/visualblocks/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/visualblocks/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/visualblocks/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/visualblocks/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/visualblocks/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/visualblocks/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/visualchars/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/visualchars/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/visualchars/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/visualchars/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/visualchars/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/visualchars/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/wordcount/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/wordcount/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/wordcount/plugin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/wordcount/plugin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/plugins/wordcount/plugin.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/plugins/wordcount/plugin.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/dark/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/dark/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/dark/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/dark/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/dark/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/dark/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/default/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/default/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/default/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/default/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/default/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/default/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/document/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/document/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/document/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/document/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/document/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/document/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/tinymce-5-dark/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/tinymce-5-dark/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/tinymce-5-dark/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/tinymce-5-dark/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/tinymce-5-dark/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/tinymce-5-dark/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/tinymce-5/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/tinymce-5/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/tinymce-5/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/tinymce-5/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/tinymce-5/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/tinymce-5/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/writer/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/writer/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/writer/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/writer/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/content/writer/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/content/writer/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.inline.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.inline.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.inline.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.inline.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.inline.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.inline.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.shadowdom.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.shadowdom.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.shadowdom.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.shadowdom.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide-dark/skin.shadowdom.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/content.inline.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/content.inline.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/content.inline.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/content.inline.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/content.inline.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/content.inline.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.shadowdom.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.shadowdom.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.shadowdom.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.shadowdom.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/oxide/skin.shadowdom.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.inline.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.inline.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.inline.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.inline.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.inline.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.inline.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.shadowdom.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.shadowdom.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.shadowdom.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.shadowdom.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5-dark/skin.shadowdom.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.inline.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.inline.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.inline.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.inline.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.inline.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.inline.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/content.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.shadowdom.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.shadowdom.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.shadowdom.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.shadowdom.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/skins/ui/tinymce-5/skin.shadowdom.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/themes/silver/index.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/themes/silver/index.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/themes/silver/theme.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/themes/silver/theme.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/themes/silver/theme.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/themes/silver/theme.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/tinymce.d.ts",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/tinymce.d.ts"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/tinymce.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/tinymce.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminDesign/vendor/tinymce/tinymce.min.js",
+      "PackagePath": "staticwebassets/AdminDesign/vendor/tinymce/tinymce.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminImages/.DS_Store",
+      "PackagePath": "staticwebassets/AdminImages/.DS_Store"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminImages/39271cd4-bb5e-4174-8060-010513592582_ART_3210 copy-min.jpg",
+      "PackagePath": "staticwebassets/AdminImages/39271cd4-bb5e-4174-8060-010513592582_ART_3210 copy-min.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AdminImages/8a4e80b9-b08d-42d2-917f-b9f1d561df7a_ghazal.png",
+      "PackagePath": "staticwebassets/AdminImages/8a4e80b9-b08d-42d2-917f-b9f1d561df7a_ghazal.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/css/style.css",
+      "PackagePath": "staticwebassets/AuthDesign/css/style.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/css/style.css.map",
+      "PackagePath": "staticwebassets/AuthDesign/css/style.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/material-icon/css/material-design-iconic-font.css",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/material-icon/css/material-design-iconic-font.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/material-icon/css/material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/material-icon/css/material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets/AuthDesign/fonts/poppins/roboto-condensed-v16-latin-regular.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/images/signin-image.jpg",
+      "PackagePath": "staticwebassets/AuthDesign/images/signin-image.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/images/signup-image.jpg",
+      "PackagePath": "staticwebassets/AuthDesign/images/signup-image.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/js/main.js",
+      "PackagePath": "staticwebassets/AuthDesign/js/main.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/scss/common/extend.scss",
+      "PackagePath": "staticwebassets/AuthDesign/scss/common/extend.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/scss/common/fonts.scss",
+      "PackagePath": "staticwebassets/AuthDesign/scss/common/fonts.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/scss/common/global.scss",
+      "PackagePath": "staticwebassets/AuthDesign/scss/common/global.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/scss/common/minxi.scss",
+      "PackagePath": "staticwebassets/AuthDesign/scss/common/minxi.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/scss/common/variables.scss",
+      "PackagePath": "staticwebassets/AuthDesign/scss/common/variables.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/scss/layouts/main.scss",
+      "PackagePath": "staticwebassets/AuthDesign/scss/layouts/main.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/scss/layouts/responsive.scss",
+      "PackagePath": "staticwebassets/AuthDesign/scss/layouts/responsive.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/scss/style.scss",
+      "PackagePath": "staticwebassets/AuthDesign/scss/style.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/vendor/jquery/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/AuthDesign/vendor/jquery/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/AuthDesign/vendor/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/AuthDesign/vendor/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/FaviconImages/.DS_Store",
+      "PackagePath": "staticwebassets/FaviconImages/.DS_Store"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/FaviconImages/0f007c82-d249-4d41-98c1-ed60548aee2c_funduq logo.png",
+      "PackagePath": "staticwebassets/FaviconImages/0f007c82-d249-4d41-98c1-ed60548aee2c_funduq logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/FaviconImages/3857801d-088d-4400-8b27-1824b6ff5828_funduq logo.png",
+      "PackagePath": "staticwebassets/FaviconImages/3857801d-088d-4400-8b27-1824b6ff5828_funduq logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/FaviconImages/3e7ac1e5-b5ba-46cb-b8e8-98d90557567d_funduq logo.png",
+      "PackagePath": "staticwebassets/FaviconImages/3e7ac1e5-b5ba-46cb-b8e8-98d90557567d_funduq logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/FaviconImages/477eedc9-bb54-47d3-bd36-dce5fae20e61_funduq logo.png",
+      "PackagePath": "staticwebassets/FaviconImages/477eedc9-bb54-47d3-bd36-dce5fae20e61_funduq logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/FaviconImages/a2e5ba07-8d36-4c6b-90ab-18fe2b1ab5fe_477eedc9-bb54-47d3-bd36-dce5fae20e61_funduq logo.png",
+      "PackagePath": "staticwebassets/FaviconImages/a2e5ba07-8d36-4c6b-90ab-18fe2b1ab5fe_477eedc9-bb54-47d3-bd36-dce5fae20e61_funduq logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/FaviconImages/c78d3a7d-df7b-4f78-b9ae-927173434fec_funduq logo.png",
+      "PackagePath": "staticwebassets/FaviconImages/c78d3a7d-df7b-4f78-b9ae-927173434fec_funduq logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeBackgrounds/20db565c-177f-4821-8e9b-63d79f1298ab_hotels-bg.jpg",
+      "PackagePath": "staticwebassets/HomeBackgrounds/20db565c-177f-4821-8e9b-63d79f1298ab_hotels-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeBackgrounds/38319b63-b51a-41dc-9149-3de2dbbc0b01_bg.jpg",
+      "PackagePath": "staticwebassets/HomeBackgrounds/38319b63-b51a-41dc-9149-3de2dbbc0b01_bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeBackgrounds/3e8683ab-0349-4e39-9407-cd4a7097a62d_hotels-bg.jpg",
+      "PackagePath": "staticwebassets/HomeBackgrounds/3e8683ab-0349-4e39-9407-cd4a7097a62d_hotels-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeBackgrounds/55596c1a-676f-4801-b8b0-e9c687bfbb4d_hotels-bg.jpg",
+      "PackagePath": "staticwebassets/HomeBackgrounds/55596c1a-676f-4801-b8b0-e9c687bfbb4d_hotels-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeBackgrounds/63464203-6a3d-41e8-9ae4-f3149abed158_55596c1a-676f-4801-b8b0-e9c687bfbb4d_hotels-bg.jpg",
+      "PackagePath": "staticwebassets/HomeBackgrounds/63464203-6a3d-41e8-9ae4-f3149abed158_55596c1a-676f-4801-b8b0-e9c687bfbb4d_hotels-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeBackgrounds/88ce1b75-b3b0-49ce-ac2f-69d2dc6d83e9_hotels-bg.jpg",
+      "PackagePath": "staticwebassets/HomeBackgrounds/88ce1b75-b3b0-49ce-ac2f-69d2dc6d83e9_hotels-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeBackgrounds/ffebf3ea-eff2-4aa8-ac50-dae2f8b78e07_hotels-bg.jpg",
+      "PackagePath": "staticwebassets/HomeBackgrounds/ffebf3ea-eff2-4aa8-ac50-dae2f8b78e07_hotels-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/.DS_Store",
+      "PackagePath": "staticwebassets/HomeDesign/.DS_Store"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/.DS_Store",
+      "PackagePath": "staticwebassets/HomeDesign/assets/.DS_Store"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/css/main.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/css/main.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/about.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/about.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/cta-bg.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/cta-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/favicon.png",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/hero-bg.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/logo.png",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/app-1.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/app-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/app-2.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/app-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/app-3.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/app-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/books-1.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/books-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/books-2.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/books-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/books-3.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/books-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/branding-1.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/branding-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/branding-2.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/branding-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/branding-3.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/branding-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/product-1.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/product-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/product-2.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/product-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/portfolio/product-3.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/portfolio/product-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/services.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/services.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/team/team-1.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/team/team-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/team/team-2.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/team/team-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/team/team-3.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/team/team-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/team/team-4.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/team/team-4.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/testimonials-bg.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/testimonials-bg.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/testimonials/testimonials-1.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/testimonials/testimonials-1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/testimonials/testimonials-2.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/testimonials/testimonials-2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/testimonials/testimonials-3.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/testimonials/testimonials-3.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/testimonials/testimonials-4.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/testimonials/testimonials-4.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/img/testimonials/testimonials-5.jpg",
+      "PackagePath": "staticwebassets/HomeDesign/assets/img/testimonials/testimonials-5.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/js/main.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/js/main.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/scss/Readme.txt",
+      "PackagePath": "staticwebassets/HomeDesign/assets/scss/Readme.txt"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/aos/aos.cjs.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/aos/aos.cjs.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/aos/aos.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/aos/aos.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/aos/aos.esm.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/aos/aos.esm.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/aos/aos.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/aos/aos.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/aos/aos.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/aos/aos.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/bootstrap/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/bootstrap/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/glightbox/css/glightbox.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/glightbox/css/glightbox.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/glightbox/css/glightbox.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/glightbox/css/glightbox.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/glightbox/js/glightbox.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/glightbox/js/glightbox.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/glightbox/js/glightbox.min.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/glightbox/js/glightbox.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/isotope-layout/isotope.pkgd.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/isotope-layout/isotope.pkgd.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/isotope-layout/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/isotope-layout/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/php-email-form/validate.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/php-email-form/validate.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/purecounter/purecounter_vanilla.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/purecounter/purecounter_vanilla.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/purecounter/purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/purecounter/purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/swiper/swiper-bundle.min.css",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/swiper/swiper-bundle.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/swiper/swiper-bundle.min.js",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/swiper/swiper-bundle.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HomeDesign/assets/vendor/swiper/swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets/HomeDesign/assets/vendor/swiper/swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/10cbc857-965c-4a81-809d-c20c42ec6759_movenpick-tala-bay.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/10cbc857-965c-4a81-809d-c20c42ec6759_movenpick-tala-bay.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/2d60fda5-1ab5-4c9f-92d2-7be7c1711b4a_4seasons_amman.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/2d60fda5-1ab5-4c9f-92d2-7be7c1711b4a_4seasons_amman.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/4517cd84-61d4-4a3a-a519-02288a40f94f_movenpick_resort_aqaba.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/4517cd84-61d4-4a3a-a519-02288a40f94f_movenpick_resort_aqaba.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/667e5214-46ea-4b6d-bb7b-98860bd49d9f_k_aqaba.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/667e5214-46ea-4b6d-bb7b-98860bd49d9f_k_aqaba.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/7db34912-dd79-42ff-8cd2-0bde8bbd0f23_movenpick-tala-bay.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/7db34912-dd79-42ff-8cd2-0bde8bbd0f23_movenpick-tala-bay.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/8914c845-2ba8-422a-9b42-7d88912d03ef_marriott_hotel.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/8914c845-2ba8-422a-9b42-7d88912d03ef_marriott_hotel.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/8a86cfbe-a93c-4164-a673-1f7b158a003c_4seasons_amman.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/8a86cfbe-a93c-4164-a673-1f7b158a003c_4seasons_amman.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/a6f839ee-04fb-4e25-8bf7-58ffdb361423_east_hotel.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/a6f839ee-04fb-4e25-8bf7-58ffdb361423_east_hotel.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/b69f8f0c-e213-49ef-b117-58564fe06b3f_4517cd84-61d4-4a3a-a519-02288a40f94f_movenpick_resort_aqaba.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/b69f8f0c-e213-49ef-b117-58564fe06b3f_4517cd84-61d4-4a3a-a519-02288a40f94f_movenpick_resort_aqaba.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/bb7e410a-e578-4a4e-9b02-a52f45f1e3ae_hilron_hotel.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/bb7e410a-e578-4a4e-9b02-a52f45f1e3ae_hilron_hotel.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/bd389212-00a6-4e84-911f-63c7c0464b98_movenpick-tala-bay.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/bd389212-00a6-4e84-911f-63c7c0464b98_movenpick-tala-bay.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/bf39ac61-e8fc-4ff8-873d-e9ef2b618a74_Petra_Marriot.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/bf39ac61-e8fc-4ff8-873d-e9ef2b618a74_Petra_Marriot.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/c4834be2-7bbc-4415-be89-d2f1d70054b1_4seasons_amman.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/c4834be2-7bbc-4415-be89-d2f1d70054b1_4seasons_amman.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/c839ee66-29d0-4acb-a4e4-cebb1c56192e_amman_moven.png",
+      "PackagePath": "staticwebassets/HotelsImages/c839ee66-29d0-4acb-a4e4-cebb1c56192e_amman_moven.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/ccbe7ea8-bccf-4da4-9a98-2a3671e2bc66_4seasons_amman.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/ccbe7ea8-bccf-4da4-9a98-2a3671e2bc66_4seasons_amman.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/cf2978dd-d7c0-41b1-8572-36717973fb3d_landmark_hotel.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/cf2978dd-d7c0-41b1-8572-36717973fb3d_landmark_hotel.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/dba37bd8-b8c4-4ed2-84fc-e964589ac809_movenpick_resort_aqaba.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/dba37bd8-b8c4-4ed2-84fc-e964589ac809_movenpick_resort_aqaba.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/de9d91cd-a7ac-4a1b-ad62-7da6061b0368_moven_p_hotel.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/de9d91cd-a7ac-4a1b-ad62-7da6061b0368_moven_p_hotel.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/eba2ecc2-8d88-44f5-85fc-72555f158037_4seasons_amman.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/eba2ecc2-8d88-44f5-85fc-72555f158037_4seasons_amman.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/f6fc4d57-0318-472f-897f-010245756892_911.jpg",
+      "PackagePath": "staticwebassets/HotelsImages/f6fc4d57-0318-472f-897f-010245756892_911.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/HotelsImages/ff03dee5-90e8-4b10-8999-9a3532e17e4f_amman_moven.png",
+      "PackagePath": "staticwebassets/HotelsImages/ff03dee5-90e8-4b10-8999-9a3532e17e4f_amman_moven.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/LogoImages/.DS_Store",
+      "PackagePath": "staticwebassets/LogoImages/.DS_Store"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/LogoImages/00a53603-1d77-4cdc-bf79-54004ebbd29a_funduq no.png",
+      "PackagePath": "staticwebassets/LogoImages/00a53603-1d77-4cdc-bf79-54004ebbd29a_funduq no.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/LogoImages/1e5788d6-bc21-4405-b92f-2f4235462e28_funduq no.png",
+      "PackagePath": "staticwebassets/LogoImages/1e5788d6-bc21-4405-b92f-2f4235462e28_funduq no.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/LogoImages/24dd38b3-ab59-46c3-83b5-9343ceb32005_funduq no.png",
+      "PackagePath": "staticwebassets/LogoImages/24dd38b3-ab59-46c3-83b5-9343ceb32005_funduq no.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/LogoImages/53623f2b-9bcc-482f-a214-558d3fb4879b_funduq no.png",
+      "PackagePath": "staticwebassets/LogoImages/53623f2b-9bcc-482f-a214-558d3fb4879b_funduq no.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/LogoImages/929acbca-115a-4cb1-84e2-89c2d2239ec4_53623f2b-9bcc-482f-a214-558d3fb4879b_funduq no.png",
+      "PackagePath": "staticwebassets/LogoImages/929acbca-115a-4cb1-84e2-89c2d2239ec4_53623f2b-9bcc-482f-a214-558d3fb4879b_funduq no.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/LogoImages/c4b0d557-f90c-4c5a-bb94-ecf09f886252_funduq no.png",
+      "PackagePath": "staticwebassets/LogoImages/c4b0d557-f90c-4c5a-bb94-ecf09f886252_funduq no.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/04c25e48-d324-4589-8850-38933157e2c3_bedb2e39-23f2-4a42-8d79-6dd28938d535_hotel_room.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/04c25e48-d324-4589-8850-38933157e2c3_bedb2e39-23f2-4a42-8d79-6dd28938d535_hotel_room.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/08621fe4-78dc-4cff-aa63-c9d4e771bf54_k_s_d_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/08621fe4-78dc-4cff-aa63-c9d4e771bf54_k_s_d_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/09a8d687-30d4-470b-84b0-b740b50e6fd4_E_d_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/09a8d687-30d4-470b-84b0-b740b50e6fd4_E_d_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/0bda4138-e8ba-432c-8b4e-94a7674aa8e4_M_d_s_2.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/0bda4138-e8ba-432c-8b4e-94a7674aa8e4_M_d_s_2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/218ce4a5-6081-440e-b34c-6fea66bc92a7_M_e_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/218ce4a5-6081-440e-b34c-6fea66bc92a7_M_e_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/23518bb8-c236-418d-82e7-d09e086b11dc_L_e_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/23518bb8-c236-418d-82e7-d09e086b11dc_L_e_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/27d6b8fc-8f59-4255-996d-1da9f4a0155c_M_d_r_2.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/27d6b8fc-8f59-4255-996d-1da9f4a0155c_M_d_r_2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/27efe5ac-0414-4f1e-b365-180d0e917da1_M_P_r_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/27efe5ac-0414-4f1e-b365-180d0e917da1_M_P_r_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/29c7f479-4fa1-4ab0-906a-d02f6e6d7b4b_king_suite.webp",
+      "PackagePath": "staticwebassets/RoomsImages/29c7f479-4fa1-4ab0-906a-d02f6e6d7b4b_king_suite.webp"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/2fe98b00-adb7-4363-b056-fa92c1e322bd_king_sea_view.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/2fe98b00-adb7-4363-b056-fa92c1e322bd_king_sea_view.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/34f649b0-753c-4810-afcb-0a0ba6ba6d0e_s_t_r_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/34f649b0-753c-4810-afcb-0a0ba6ba6d0e_s_t_r_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/39bdbc37-3a95-4f04-ba98-99cce8ede1a2_hotel_room.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/39bdbc37-3a95-4f04-ba98-99cce8ede1a2_hotel_room.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/3c5f85c3-8d0d-4dfc-827c-453a2c1d02d0_M_P_f_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/3c5f85c3-8d0d-4dfc-827c-453a2c1d02d0_M_P_f_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/4007fd5c-3d3c-41d4-9f56-1db0f6d1476a_s_t_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/4007fd5c-3d3c-41d4-9f56-1db0f6d1476a_s_t_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/471718f2-9c8c-4d18-961f-fc0b707357e8_L_p_t_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/471718f2-9c8c-4d18-961f-fc0b707357e8_L_p_t_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/4d623a93-ae3d-4f9f-912d-9e461a66c910_L_d_d_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/4d623a93-ae3d-4f9f-912d-9e461a66c910_L_d_d_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/4da85039-01d5-4f78-92a7-802b7e6b6c5f_E_d_s_s_v.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/4da85039-01d5-4f78-92a7-802b7e6b6c5f_E_d_s_s_v.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/5c1a9fbd-bccd-419c-941c-da4b505db909_d5f2a008-a6ca-46e3-a5cf-d027e0866649_hotel_room.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/5c1a9fbd-bccd-419c-941c-da4b505db909_d5f2a008-a6ca-46e3-a5cf-d027e0866649_hotel_room.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/61ef226d-2f62-412e-8194-444142665a04_k_s_v_e_d.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/61ef226d-2f62-412e-8194-444142665a04_k_s_v_e_d.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/6f3098aa-586a-4022-bca2-9657117b2114_m_p_s_g.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/6f3098aa-586a-4022-bca2-9657117b2114_m_p_s_g.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/742eea2f-838d-45e5-a526-0be24821c939_911.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/742eea2f-838d-45e5-a526-0be24821c939_911.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/74ef7a76-cfdb-4dd4-91a8-efdae29c7c71_s_v_d_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/74ef7a76-cfdb-4dd4-91a8-efdae29c7c71_s_v_d_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/825546f2-6e81-4e4a-812e-49e54441fd33_m_p_m_p.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/825546f2-6e81-4e4a-812e-49e54441fd33_m_p_m_p.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/88491695-a075-4b58-bad7-3d2410a34e0c_L_p_k_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/88491695-a075-4b58-bad7-3d2410a34e0c_L_p_k_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/8aeb666d-e2a5-43d0-8570-e7a776209c55_H_j_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/8aeb666d-e2a5-43d0-8570-e7a776209c55_H_j_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/8fac9eea-97d7-4b2c-8c34-730d754a3d38_M_P_s_t_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/8fac9eea-97d7-4b2c-8c34-730d754a3d38_M_P_s_t_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/91cc8504-365a-4205-9631-0cfb55686f70_M_P_j_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/91cc8504-365a-4205-9631-0cfb55686f70_M_P_j_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/9829d362-e882-474c-b26a-c0e280ca3f16_M_d_r_2.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/9829d362-e882-474c-b26a-c0e280ca3f16_M_d_r_2.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/98d03343-de41-4583-b774-e82dc02acd64_M_P_k_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/98d03343-de41-4583-b774-e82dc02acd64_M_P_k_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/9904081d-56a5-4428-9980-a48b8e090171_s_k_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/9904081d-56a5-4428-9980-a48b8e090171_s_k_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/9a9276a8-f737-4145-b7c7-85186b70133e_king_sea_view.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/9a9276a8-f737-4145-b7c7-85186b70133e_king_sea_view.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/aff8bfd6-9f1b-4964-a546-cc00eee470de_d5ad1d92-86f2-4225-b54d-5b512642e29d_hotel_room.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/aff8bfd6-9f1b-4964-a546-cc00eee470de_d5ad1d92-86f2-4225-b54d-5b512642e29d_hotel_room.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/b231a1dd-1e9a-42f8-a6ec-03daed3104a7_H_e_t_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/b231a1dd-1e9a-42f8-a6ec-03daed3104a7_H_e_t_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/b8b90356-5d7b-41eb-912b-265b8c1916ae_king_suite.webp",
+      "PackagePath": "staticwebassets/RoomsImages/b8b90356-5d7b-41eb-912b-265b8c1916ae_king_suite.webp"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/bedb2e39-23f2-4a42-8d79-6dd28938d535_hotel_room.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/bedb2e39-23f2-4a42-8d79-6dd28938d535_hotel_room.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/c619d68e-a167-43ec-bf4f-91d50b08dc07_L_r_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/c619d68e-a167-43ec-bf4f-91d50b08dc07_L_r_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/c6e18231-5d73-446f-9720-3a989d254f96_hotel_room.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/c6e18231-5d73-446f-9720-3a989d254f96_hotel_room.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/ca1b5b2a-e8ef-4c11-bb9a-743c6327ca75_M_P_c_k_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/ca1b5b2a-e8ef-4c11-bb9a-743c6327ca75_M_P_c_k_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/ca5ca238-7ced-44f7-af33-51e44f6a85b0_k_s_v_j_s.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/ca5ca238-7ced-44f7-af33-51e44f6a85b0_k_s_v_j_s.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/d3ce54e6-66dc-40cb-8ea1-f65497c742db_M_d_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/d3ce54e6-66dc-40cb-8ea1-f65497c742db_M_d_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/d5ad1d92-86f2-4225-b54d-5b512642e29d_hotel_room.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/d5ad1d92-86f2-4225-b54d-5b512642e29d_hotel_room.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/d5f2a008-a6ca-46e3-a5cf-d027e0866649_hotel_room.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/d5f2a008-a6ca-46e3-a5cf-d027e0866649_hotel_room.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/dd62f1d0-57d0-465f-9a8f-34452d3ad27e_H_d_k_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/dd62f1d0-57d0-465f-9a8f-34452d3ad27e_H_d_k_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/dfef2f3a-bfe8-4105-8701-54b72be18096_m_p_s_g.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/dfef2f3a-bfe8-4105-8701-54b72be18096_m_p_s_g.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/e35f138c-b346-4315-bb49-a2da2664a268_p_suite.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/e35f138c-b346-4315-bb49-a2da2664a268_p_suite.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/e7362a66-f243-4f0c-86dc-5bb3af8d07e2_H_t_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/e7362a66-f243-4f0c-86dc-5bb3af8d07e2_H_t_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/e930fd52-afa7-4695-ab2b-f1bed7681d87_M_P_f_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/e930fd52-afa7-4695-ab2b-f1bed7681d87_M_P_f_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/RoomsImages/fad6223b-996b-4563-b595-b2ccf9962c03_m_p_s_r.jpg",
+      "PackagePath": "staticwebassets/RoomsImages/fad6223b-996b-4563-b595-b2ccf9962c03_m_p_s_r.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/TBackgroundImages/0b2a3cee-f603-4323-97af-3977f03887a3_testimonial-bg.png",
+      "PackagePath": "staticwebassets/TBackgroundImages/0b2a3cee-f603-4323-97af-3977f03887a3_testimonial-bg.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/TBackgroundImages/36d4cc7d-f1c9-4329-92b9-fe22a5971625_testimonial-bg.png",
+      "PackagePath": "staticwebassets/TBackgroundImages/36d4cc7d-f1c9-4329-92b9-fe22a5971625_testimonial-bg.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/TBackgroundImages/c85351bc-9668-4f85-a9bc-bad6f7f9e2ac_fb420b06-c396-4030-ac9f-3e4e3e92e473_testimonial-bg.png",
+      "PackagePath": "staticwebassets/TBackgroundImages/c85351bc-9668-4f85-a9bc-bad6f7f9e2ac_fb420b06-c396-4030-ac9f-3e4e3e92e473_testimonial-bg.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/TBackgroundImages/cb6e29fa-e2aa-45a4-b5a8-566bfd64342c_testimonial-bg.png",
+      "PackagePath": "staticwebassets/TBackgroundImages/cb6e29fa-e2aa-45a4-b5a8-566bfd64342c_testimonial-bg.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/TBackgroundImages/d323e1b7-78ec-4953-ad18-9c8d3db5cbbb_testimonial-bg.png",
+      "PackagePath": "staticwebassets/TBackgroundImages/d323e1b7-78ec-4953-ad18-9c8d3db5cbbb_testimonial-bg.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/TBackgroundImages/e2ddbada-6e5e-4c94-9605-8dbb05cfa1c6_testimonial-bg.png",
+      "PackagePath": "staticwebassets/TBackgroundImages/e2ddbada-6e5e-4c94-9605-8dbb05cfa1c6_testimonial-bg.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/TBackgroundImages/fb420b06-c396-4030-ac9f-3e4e3e92e473_testimonial-bg.png",
+      "PackagePath": "staticwebassets/TBackgroundImages/fb420b06-c396-4030-ac9f-3e4e3e92e473_testimonial-bg.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/0606411b-f68e-44a7-acdf-d0b9682f197f_mustafa.jpg",
+      "PackagePath": "staticwebassets/UsersImages/0606411b-f68e-44a7-acdf-d0b9682f197f_mustafa.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/08982162-3e72-44d4-a03d-2e6b1d4f7d8f_ART_3210 copy-min.jpg",
+      "PackagePath": "staticwebassets/UsersImages/08982162-3e72-44d4-a03d-2e6b1d4f7d8f_ART_3210 copy-min.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/1673dcfc-2e41-4c0b-a73d-d0038e950558_ART_3210 copy-min.jpg",
+      "PackagePath": "staticwebassets/UsersImages/1673dcfc-2e41-4c0b-a73d-d0038e950558_ART_3210 copy-min.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/4467ac9f-32f9-4bd9-8613-276b46ffda3b_profile_photo1.jpg",
+      "PackagePath": "staticwebassets/UsersImages/4467ac9f-32f9-4bd9-8613-276b46ffda3b_profile_photo1.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/514270f6-aff9-4a49-81ed-a8585e47ae57_yaser.png",
+      "PackagePath": "staticwebassets/UsersImages/514270f6-aff9-4a49-81ed-a8585e47ae57_yaser.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/7af74a61-4e13-40bc-b218-5a44abcdfcd7_Batman-Logo.png",
+      "PackagePath": "staticwebassets/UsersImages/7af74a61-4e13-40bc-b218-5a44abcdfcd7_Batman-Logo.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/ca569e9f-0c0d-419b-82bb-14506d34ca47_yaser.png",
+      "PackagePath": "staticwebassets/UsersImages/ca569e9f-0c0d-419b-82bb-14506d34ca47_yaser.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/eb2de8c5-a70a-4fee-8417-5e17c6ac91ad_yaser.jpg",
+      "PackagePath": "staticwebassets/UsersImages/eb2de8c5-a70a-4fee-8417-5e17c6ac91ad_yaser.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/f575f968-5db4-4c17-8952-34480d49fbaa_yaser.jpg",
+      "PackagePath": "staticwebassets/UsersImages/f575f968-5db4-4c17-8952-34480d49fbaa_yaser.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/f8a8efe3-19ec-4e3a-87bf-a74b2ba3d760_ART_3210 copy-min.jpg",
+      "PackagePath": "staticwebassets/UsersImages/f8a8efe3-19ec-4e3a-87bf-a74b2ba3d760_ART_3210 copy-min.jpg"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/UsersImages/fd11ec58-c434-4bef-8c44-0689de7fee10_yaser.png",
+      "PackagePath": "staticwebassets/UsersImages/fd11ec58-c434-4bef-8c44-0689de7fee10_yaser.png"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/saadghazal/aspProjects/funduq/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.funduq.props",
+      "PackagePath": "build\\funduq.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.funduq.props",
+      "PackagePath": "buildMultiTargeting\\funduq.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.funduq.props",
+      "PackagePath": "buildTransitive\\funduq.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.funduq.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

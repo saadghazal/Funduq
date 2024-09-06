@@ -1,0 +1,135 @@
+﻿@model funduq.Models.HomePage;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Page Settings";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="pagetitle">
+    <h1>User Home Page Content</h1>
+</div>
+
+
+@if (Model == null)
+{
+    <div style="text-align: center;justify-content: center; display: flex;flex-direction: column;align-items: center;height: 40rem;">
+        <h3>No Home Page Created Yet</h3>
+        <a asp-action="Create" asp-controller="HomePage">Create One!</a>
+    </div>
+
+}
+else
+{
+    <a class="btn btn-primary" asp-action="Edit" asp-controller="HomePage" asp-route-id="@Model.HomeId">Edit</a>
+    <a class="btn btn-danger" asp-action="Delete" asp-controller="HomePage" asp-route-id="@Model.HomeId">Delete</a>
+
+    <section class="section contact" style="margin-top: 40px; display: flex; justify-content: center;">
+
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="info-box card">
+
+                    <h2 style="display: flex; align-self: center; justify-self:center"><a href="@Model.XUrl"><i class="bi bi-twitter-x"></i></a> </h2>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="info-box card">
+
+                    <h2 style="display: flex; align-self: center; justify-self:center"><a href="@Model.FacebookUrl"><i class="bi bi-facebook"></i></a> </h2>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="info-box card">
+
+                    <h2 style="display: flex; align-self: center; justify-self:center"><a href="@Model.InstagramUrl"><i class="bi bi-instagram"></i></a> </h2>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="info-box card">
+                    <h3>Logo</h3>
+                    <img src="@ViewBag.Logo" asp-append-version="true" height="200px" style="display:flex;justify-self:center; max-width:100%; align-self:center">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="info-box card">
+                    <h3>
+                        Favicon
+                    </h3>
+                    <img src="@ViewBag.Favicon" asp-append-version="true" height="200px" width="auto" style="display:flex;justify-self:center; align-self:center">
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="info-box card">
+                    <h3>
+                        Company Name
+                    </h3>
+                    <h2 style="display: flex; align-self: center; justify-self:center">@Model.HomeLogoText </h2>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="info-box card">
+                    <h3>
+                        Welcome Sentance
+                    </h3>
+                    <h2 style="display: flex; align-self: center; justify-self:center">@Model.TopTitle </h2>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="info-box card">
+                    <h3>
+                        Slogan
+                    </h3>
+                    <h2 style="display: flex; align-self: center; justify-self:center">@Model.TopSubtitle </h2>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="info-box card">
+                    <h3>
+                        Search Placeholder
+                    </h3>
+                    <h2 style="display: flex; align-self: center; justify-self:center">@Model.SearchPlacholder</h2>
+                </div>
+            </div>
+
+            <div class="col-lg-12">
+                <div class="info-box card">
+                    <h3>
+                        Top Background Image
+                    </h3>
+                    <img src="@Url.Content("~/HomeBackgrounds/"+ Model.BackgroundImage)" asp-append-version="true" height="200px" style="display: flex; max-width: 100%; justify-self: center; align-self: center">
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="info-box card">
+                    <h3>
+                        About Us Image
+                    </h3>
+                    <img src="@Url.Content("~/AboutImages/"+ Model.AboutUsPicture)" asp-append-version="true" height="200px" style="display: flex; justify-self: center; max-width: 100%; align-self: center">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="info-box card">
+                    <h3>About Us</h3>
+                    <p style="display:flex;align-self:center">@Model.AboutUsParagraph </p>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="info-box card">
+                    <h3>
+                        Testimonials Background Image
+                    </h3>
+                    <img src="@Url.Content("~/TBackgroundImages/"+ Model.TestimonialsBackgroundPicture)" asp-append-version="true" height="200px" style="display: flex;max-width:100%; justify-self: center; align-self: center">
+                </div>
+            </div>
+
+
+        </div>
+
+
+    </section>
+}

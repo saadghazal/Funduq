@@ -1,0 +1,121 @@
+﻿@model funduq.Models.Room;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Room";
+    Layout = "/Views/Shared/_HomeLayout.cshtml";
+}
+
+
+<!-- Page Title -->
+<div class="page-title light-background">
+    <div class="container d-lg-flex justify-content-between align-items-center">
+        <h1 class="mb-2 mb-lg-0">@Model.Type.RoomType1 at @Model.Hotel.HotelName</h1>
+        <nav class="breadcrumbs">
+            <ol>
+                <li><a asp-action="HotelPage" asp-route-hotelId="@Model.HotelId">@Model.Hotel.HotelName</a></li>
+                <li class="current">Room</li>
+            </ol>
+        </nav>
+    </div>
+</div><!-- End Page Title -->
+<!-- About Section -->
+<section class="about section">
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-5 position-relative" data-aos="fade-up" data-aos-delay="200">
+                <img src="@Url.Content("~/RoomsImages/"+Model.RoomImage)" class="img-fluid" alt="">
+            </div>
+
+            <div class="col-lg-7 content" data-aos="fade-up" data-aos-delay="100">
+                <h3>@Model.RoomName</h3>
+                <h3>Description</h3>
+                <p>
+                    @Model.RoomDescription
+                </p>
+                <ul>
+                    <li>
+                        <i class="bi bi-currency-dollar"></i>
+                        <div>
+                            <h5>Price</h5>
+                            <p>$@Model.NightPrice Per Night</p>
+                        </div>
+                    </li>
+                    <li>
+                        <i class="bi bi-hash"></i>
+                        <div>
+                            <h5>Number Of Beds</h5>
+                            <p>@Model.NumberOfBeds</p>
+                        </div>
+                    </li>
+                    @if ((bool)Model.IsBreakfastIncluded)
+                    {
+                        <li>
+                            <i class="bi bi-egg-fried"></i>
+                            <div>
+                                <h5>Breakfast Included</h5>
+                            </div>
+                        </li>
+                    }
+
+                    <li>
+                        <i class="fa-brands fa-codepen"></i>
+                        <div>
+                            <h5>Room Type</h5>
+                            <p>@Model.Type.RoomType1</p>
+                        </div>
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section><!-- /About Section -->
+<script src="https://kit.fontawesome.com/fc8f155ce6.js" crossorigin="anonymous"></script>
+
+<div class="container" style="display:flex;flex-flow:column;justify-content:center;align-items:center">
+    @if (TempData["Alert"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["Alert"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+    @{
+        var minCheckIn = DateTime.Now.AddDays(1).ToString("yyyy-MM-dd");
+        var minCheckOut = DateTime.Now.AddDays(2).ToString("yyyy-MM-dd");
+        var endOfYear = new DateTime(DateTime.Now.Year, 12, 31).ToString("yyyy-MM-dd");
+
+    }
+
+    <form asp-action="Payment" style="display:flex;flex-flow:column;width:50%;align-items:center">
+        <div class="col-sm-10">
+            <input name="price" id="price" value="@Model.NightPrice" hidden class="form-control" style="border-radius: 20px; border-color: #4154f1;border-width:2px ">
+
+            <input name="rId" id="rId" value="@Model.RoomId" hidden class="form-control" style="border-radius: 20px; border-color: #4154f1;border-width:2px ">
+        </div>
+        <div class="col-sm-10">
+            <label for="checkInDate" class="col-sm-2 col-form-label" style="width: 100%; color: #212529"><strong>Check-In Date</strong></label>
+            <input type="date" name="checkInDate" id="checkInDate" min="@minCheckIn" max="@endOfYear" class="form-control" style="border-radius: 20px; border-color: #4154f1;border-width:2px ">
+        </div>
+
+        <div class="col-sm-10">
+            <label for="checkOutDate" class="col-sm-2 col-form-label" style="width: 100%; color: #212529;"><strong>Check-Out Date</strong></label>
+            <input type="date" name="checkOutDate" id="checkOutDate" min="@minCheckOut" max="@endOfYear" class="form-control" style="border-radius: 20px; border-color: #4154f1; border-width: 2px ">
+        </div>
+        <div class="col-sm-10" style="margin-top:20px;margin-bottom:50px;text-align:center">
+            <button class="btn btn-primary" type="submit" style="border: none; background-color: #4154f1;width:100%;border-radius:20px">Book Now!</button>
+        </div>
+
+    </form>
+
+
+</div>
+

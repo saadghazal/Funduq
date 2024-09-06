@@ -1,0 +1,39 @@
+@model funduq.Models.HotelService
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="pagetitle">
+    <h1>Edit Service</h1>
+</div>
+
+<h4>HotelService</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ServiceId" />
+            <div class="form-group">
+                <label asp-for="ServiceType" class="control-label"></label>
+                <input asp-for="ServiceType" class="form-control" required />
+                <span asp-validation-for="ServiceType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HotelId" class="control-label"></label>
+                <select asp-for="HotelId" class="form-control" asp-items="ViewBag.HotelId" required></select>
+                <span asp-validation-for="HotelId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="HotelServices" asp-controller="Admin" asp-route-id="@Model.Hotel.HotelId" asp-route-hotelName="@Model.Hotel.HotelName">Back to List</a>
+</div>
+

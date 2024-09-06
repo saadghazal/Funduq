@@ -1,0 +1,159 @@
+﻿@model IEnumerable<Testimonial>;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Testimonials";
+    Layout = "/Views/Shared/_HomeLayout.cshtml";
+
+}
+
+<!-- Page Title -->
+<div class="page-title light-background">
+    <div class="container d-lg-flex justify-content-between align-items-center">
+        <h1 class="mb-2 mb-lg-0">Testimonials</h1>
+        <nav class="breadcrumbs">
+            <ol>
+                <li><a asp-action="Index">Home</a></li>
+                <li class="current">Testimonials</li>
+            </ol>
+        </nav>
+    </div>
+</div><!-- End Page Title -->
+<!-- Testimonials Section -->
+<!-- Section Title -->
+
+
+@if (Model.Count() == 0)
+{
+
+
+    <div class="container section-title" data-aos="fade-up" style="padding-top: 40px;padding-bottom:40px">
+
+        <div><span>No Testimonials</span> <span class="description-title">Found</span></div>
+    </div><!-- End Section Title -->
+}
+else
+{
+    <div class="container section-title" data-aos="fade-up" style="padding-top: 40px;padding-bottom:40px">
+        <h2>Testimonials</h2>
+        <div><span>Check Our</span> <span class="description-title">Customers</span></div>
+    </div><!-- End Section Title -->
+    <section id="testimonials" class="testimonials section dark-background" style="margin-top: 40px">
+
+        <img src="~/HomeDesign/assets/img/testimonials-bg.jpg" class="testimonials-bg" alt="">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="swiper init-swiper">
+                <script type="application/json" class="swiper-config">
+                    {
+                      "loop": true,
+                      "speed": 600,
+                      "autoplay": {
+                        "delay": 5000
+                      },
+                      "slidesPerView": "auto",
+                      "pagination": {
+                        "el": ".swiper-pagination",
+                        "type": "bullets",
+                        "clickable": true
+                      }
+                    }
+                </script>
+                <div class="swiper-wrapper">
+
+                    @foreach (var testmonial in Model)
+                    {
+                        <div class="swiper-slide">
+                            <div class="testimonial-item">
+                                <img src="@Url.Content("~/UsersImages/"+testmonial.User.ProfilePicture)" class="testimonial-img" alt="" style="clip-path:circle();object-fit:cover">
+                                <h3>@testmonial.User.FirstName @testmonial.User.LastName</h3>
+                                <div class="stars">
+                                    @for (var i = 1; i <= testmonial.Rating; i++)
+                                    {
+
+                                        <i class="bi bi-star-fill"></i>
+
+                                    }
+                                </div>
+
+                                <p>
+                                    <i class="bi bi-quote quote-icon-left"></i>
+                                    <span>@testmonial.UserOpinion</span>
+                                    <i class="bi bi-quote quote-icon-right"></i>
+                                </p>
+                            </div>
+                        </div><!-- End testimonial item -->
+
+                    }
+
+                </div>
+                <div class="swiper-pagination"></div>
+
+            </div>
+        </div>
+    </section>
+
+}
+
+
+
+
+<!-- Section Title -->
+<div class="container section-title" data-aos="fade-up" style="padding-top: 40px">
+    <h2>Add Yours</h2>
+    <div><span>Share Your</span> <span class="description-title">Experience</span></div>
+</div><!-- End Section Title -->
+
+@if (ViewBag.user == null)
+{
+    <div class="container" style="display:flex;justify-content:center;align-items:center;width:30%;margin-bottom:40px">
+
+        <a class="btn btn-primary" asp-action="UserLogin" asp-controller="Authentication" style="border: none; background-color: #4154f1;width:100%;border-radius:20px">Login to add yours</a>
+    </div>
+}
+else
+{
+
+
+    
+<div class="container" style="display:flex;flex-flow:column; justify-content:center;align-items:center">
+    @if (TempData["Alert"] != null)
+    {
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <i class="bi bi-info-circle me-1"></i>
+        @TempData["Alert"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    }
+    <form method="post" asp-action="Testimonials" style="display:flex;flex-flow:column;width:50%;align-items:center">
+        <div class="col-sm-10">
+
+            <label for="rating" class="col-sm-2 col-form-label" style="width: 100%; color: #212529;"><strong>Rate Us</strong></label>
+            <h5 id="rangeValue">3</h5>
+            <input type="range" name="rating" id="rating" oninput="rangeValue.innerText = this.value" max="5" min="1" class="form-control" style="border-radius: 20px; border-color: #4154f1; border-width: 2px " required>
+        </div>
+        <div class="col-sm-10">
+            <label for="userOpinion" class="col-sm-2 col-form-label" style="width: 100%; color: #212529"><strong>Your Experience</strong></label>
+            <textarea rows="4" name="userOpinion" id="userOpinion" class="form-control" style="border-radius: 20px; border-color: #4154f1;border-width:2px " required></textarea>
+        </div>
+
+
+        <div class="col-sm-10" style="margin-top:20px;margin-bottom:50px;text-align:center">
+            <input value="Submit" class="btn btn-primary" type="submit" style="border: none; background-color: #4154f1;width:100%;border-radius:20px">
+        </div>
+
+    </form>
+    <div class="alert alert-primary alert-dismissible fade show" role="alert">
+        <i class="bi bi-info-circle me-1"></i>
+        After submitting your experience wait unitl we accept it or reject it
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+
+
+</div>
+
+}
+

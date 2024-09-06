@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Testimonial>;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Testimonials";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="pagetitle">
+    <h1>Testimonials</h1>
+
+</div>
+
+@if (Model.Count() == 0)
+{
+    <div style="text-align: center;justify-content: center; display: flex;flex-direction: column;align-items: center;height: 40rem;">
+        <h3>No New Reviews</h3>
+        
+    </div>
+
+}
+else
+{
+    <div class="col-lg-12">
+        @foreach (var testimonial in Model)
+        {
+            <div class="card">
+                <div class="card-body">
+                    <!-- Profile Picture and Title Row -->
+                    <div class="d-flex align-items-center mb-3">
+                        <!-- Profile Picture -->
+                        <img src="@Url.Content("~/UsersImages/"+testimonial.User.ProfilePicture)" class="rounded-circle me-3" alt="Profile Picture" style="width: 40px; height: 40px; object-fit: cover;">
+                        <!-- Card Title and Subtitle -->
+                        <div>
+                            <h5 class="card-title mb-0">@testimonial.User.FirstName @testimonial.User.LastName</h5>
+
+                        </div>
+                    </div>
+
+                    <!-- Star Rating with Description -->
+                    <div class="mb-3">
+                        <div class="star-rating mb-2">
+                            <!-- Filled Stars -->
+                            @for (int i = 1; i <= testimonial.Rating; i++)
+                            {
+                                <span class="text-warning">&#9733;</span>
+                            }
+
+                            <!-- Empty Stars -->
+                            @for (int i = 1; i <= (5 - (int)testimonial.Rating); i++)
+                            {
+                                <span class="text-secondary">&#9733;</span>
+                            }
+
+                        </div>
+                    </div>
+
+                    <!-- Card Content -->
+                    <p class="card-text">@testimonial.UserOpinion</p>
+
+                    <!-- Accept and Reject Buttons -->
+                    <div class="d-flex justify-content-between">
+                        <a asp-action="AcceptTestimonial" asp-route-testimonialId="@testimonial.TestimonialId" class="btn btn-success">Accept</a>
+                        <a asp-action="RejectTestimonial" asp-route-testimonialId="@testimonial.TestimonialId" class="btn btn-danger">Reject</a>
+                    </div>
+                </div>
+            </div>
+
+        }
+
+    </div>
+
+}

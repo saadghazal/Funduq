@@ -1,0 +1,73 @@
+@model funduq.Models.Room
+
+@{
+    ViewData["Title"] = "Create Room";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="pagetitle">
+    <h1>Create Room</h1>
+</div>
+
+@if (TempData["Alert"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Alert"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="RoomName" class="control-label">Room Name</label>
+                <input asp-for="RoomName" class="form-control"  required/>
+            </div>
+            <div class="form-group">
+                <label asp-for="TypeId" class="control-label">Room Type</label>
+                <select asp-for="TypeId" class="form-control" asp-items="ViewBag.TypeId" required></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="HotelId" class="control-label">Hotel</label>
+                <select asp-for="HotelId" class="form-control" asp-items="ViewBag.HotelId" required></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="NightPrice" class="control-label">Price per night</label>
+                <input asp-for="NightPrice" min="1" class="form-control" required />
+                <span asp-validation-for="NightPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoomDescription" class="control-label">Room Description</label>
+                <textarea asp-for="RoomDescription" class="form-control" required rows="3" cols="4"></textarea>
+                <span asp-validation-for="RoomDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberOfBeds" class="control-label">Number of beds</label>
+                <input asp-for="NumberOfBeds" min="1" class="form-control" required />
+                <span asp-validation-for="NumberOfBeds" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoomImageFile" class="control-label">Room Picture</label>
+                <input asp-for="RoomImageFile" class="form-control" required />
+                @* <span asp-validation-for="RoomImage" class="text-danger"></span> *@
+            </div>
+
+            <div class="form-group">
+                <label asp-for="IsBreakfastIncluded" class="control-label">Breakfast Included?</label>
+                <input asp-for="IsBreakfastIncluded" class="form-control" required />
+                <span asp-validation-for="IsBreakfastIncluded" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" style="border: none; background-color: #4154f1;" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Hotels" asp-controller="Admin">Back to List</a>
+</div>
+

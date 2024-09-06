@@ -1,0 +1,86 @@
+﻿@model funduq.Models.UserCredential;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login</title>
+    <link href="@ViewBag.Favicon" rel="icon">
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
+    <link href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="~/AdminDesign/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/AdminDesign/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/AdminDesign/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/AdminDesign/vendor/quill/quill.snow.css" rel="stylesheet">
+    <link href="~/AdminDesign/vendor/quill/quill.bubble.css" rel="stylesheet">
+    <link href="~/AdminDesign/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="~/AdminDesign/vendor/simple-datatables/style.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="~/AdminDesign/css/style.css" rel="stylesheet">
+    <!-- Main css -->
+    <link rel="stylesheet" href="~/AuthDesign/css/style.css">
+
+</head>
+<body>
+
+    <div class="main">
+
+        <section class="sign-in">
+            <div class="container">
+                <div class="signin-content">
+                    <div class="signin-image">
+                        <figure><img src="@ViewBag.Favicon" alt="sing up image"></figure>
+                        <a asp-action="UserRegister" class="signup-image-link">Create an account</a>
+                    </div>
+
+                    <div class="signin-form">
+                        <h2 class="form-title">Login</h2>
+                        @if (TempData["Alert"] != null)
+                        {
+                            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                @TempData["Alert"]
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                        }
+                        <form method="POST" asp-action="UserLogin">
+                            <div class="form-group">
+
+                                <input asp-for="Email" placeholder="Enter your email" required type="email" />
+                            </div>
+                            <div class="form-group">
+
+
+                                <input asp-for="UserPassword" type="password" placeholder="Enter your password" required />
+
+
+                            </div>
+
+                            <div class="form-group form-button">
+                                <input type="submit" name="signin" id="signin" class="form-submit" style="background-color: #4154f1" value="Login" />
+                            </div>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- JS -->
+        <script src="~/AuthDesign/vendor/jquery/jquery.min.js"></script>
+        <script src="~/AuthDesign/js/main.js"></script>
+
+    </div>
+</body>
+</html>

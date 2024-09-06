@@ -1,0 +1,64 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Payment";
+    Layout = "/Views/Shared/_HomeLayout.cshtml";
+}
+
+
+<div class="container">
+    <section class="section register min-vh-100 d-flex flex-column align-items-center justify-content-center py-4">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6 d-flex flex-column align-items-center justify-content-center">
+                    <div class="d-flex justify-content-center py-4">
+                        <div class="d-flex align-items-center w-auto">
+                            <img src="@ViewBag.Logo" asp-append-version="true" alt="" height="110px">
+
+                        </div>
+                    </div><!-- End Logo -->
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <div class="pt-4 pb-2">
+                                <h5 class="card-title text-center pb-0 fs-4">Complete Payment</h5>
+                                <h6 class="card-title text-center pb-0 fs-4">Total: <strong style="color: #4154f1">$@ViewBag.TotalAmount</strong></h6>
+                                <p class="text-center small" style="color: #4154f1">Enter your credit card details to book!</p>
+                            </div>
+                            @if (TempData["Alert"] != null)
+                            {
+                                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                                    @TempData["Alert"]
+                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                </div>
+                            }
+                            <form class="row g-3" asp-action="Book" method="post">
+                                <input name="rId" id="rId" value="@ViewBag.roomId" hidden class="form-control" style="border-radius: 20px; border-color: #4154f1;border-width:2px ">
+                                <input name="totalAmount" id="totalAmount" value="@ViewBag.TotalAmount" hidden class="form-control" style="border-radius: 20px; border-color: #4154f1;border-width:2px ">
+                                <input name="checkInDate" id="checkInDate" value="@ViewBag.checkIn" hidden class="form-control" style="border-radius: 20px; border-color: #4154f1;border-width:2px ">
+                                <input name="checkOutDate" id="checkOutDate" value="@ViewBag.checkOut" hidden class="form-control" style="border-radius: 20px; border-color: #4154f1;border-width:2px ">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <div class="form-group col-md-12">
+                                    <label for="cardNumber" class="control-label">Card Number</label>
+                                    <input name="cardNumber" id="cardNumber" class="form-control" placeholder="4444 4444 4444 4444" required />
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="cardCvv" class="control-label">CVV</label>
+                                    <input name="cardCvv" id="cardCvv" class="form-control" placeholder="cvv" required/>
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="expiryDate" class="control-label">Expiry Date</label>
+                                    <input name="expiryDate" id="expiryDate" class="form-control" placeholder="2024-08-15" required/>
+                                </div>
+                                <div class="col-12 form-group">
+                                    <button class="btn btn-primary" type="submit" style="border: none; background-color: #4154f1;width:100%;border-radius:20px">Book!</button>
+
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

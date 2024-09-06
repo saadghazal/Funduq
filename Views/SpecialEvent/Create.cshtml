@@ -1,0 +1,60 @@
+@model funduq.Models.SpecialEvent
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>SpecialEvent</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HotelId" class="control-label"></label>
+                <select asp-for="HotelId" class ="form-control" asp-items="ViewBag.HotelId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="EventDescription" class="control-label"></label>
+                <input asp-for="EventDescription" class="form-control" />
+                <span asp-validation-for="EventDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EventPicture" class="control-label"></label>
+                <input asp-for="EventPicture" class="form-control" />
+                <span asp-validation-for="EventPicture" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TicketPrice" class="control-label"></label>
+                <input asp-for="TicketPrice" class="form-control" />
+                <span asp-validation-for="TicketPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaximumTickets" class="control-label"></label>
+                <input asp-for="MaximumTickets" class="form-control" />
+                <span asp-validation-for="MaximumTickets" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AvailableFrom" class="control-label"></label>
+                <input asp-for="AvailableFrom" class="form-control" />
+                <span asp-validation-for="AvailableFrom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AvailableTo" class="control-label"></label>
+                <input asp-for="AvailableTo" class="form-control" />
+                <span asp-validation-for="AvailableTo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

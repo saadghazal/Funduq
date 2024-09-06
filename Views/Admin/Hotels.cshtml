@@ -1,0 +1,94 @@
+@model IEnumerable<funduq.Models.Hotel>
+
+@{
+    ViewBag.Title = "Hotels";
+}
+@{
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+     
+        <div class="pagetitle">
+      <h1>Hotels</h1>
+      
+    </div>
+
+<p>
+    <a asp-action="CreateHotel">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Hotel Name
+                @* @Html.DisplayNameFor(model => model.HotelName) *@
+            </th>
+            <th>
+                Hotel Picture
+                @* @Html.DisplayNameFor(model => model.HotelPicture) *@
+            </th>
+            <th>
+                Number of stars
+                @* @Html.DisplayNameFor(model => model.NumberOfStars) *@
+            </th>
+            <th>
+                Featured Hotel?
+                @* @Html.DisplayNameFor(model => model.IsFeaturedHotel) *@
+            </th>
+            <th>
+                Hotel City
+                @* @Html.DisplayNameFor(model => model.HotelCityNavigation) *@
+            </th>
+            <th>
+                
+            </th>
+            <th>
+                
+            </th>
+            <th>
+                
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HotelName)
+            </td>
+            <td>
+                <img height="100px" width="150px" src="@Url.Content("~/HotelsImages/"+item.HotelPicture)" alt=""
+                asp-append-version = "true"
+                >
+                @* @Html.DisplayFor(modelItem => item.HotelPicture) *@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumberOfStars) Stars
+            </td>
+            <td>
+                @if(item.IsFeaturedHotel.HasValue && item.IsFeaturedHotel.Value){
+                    <span style="color: #06D001;">Featured</span>
+                }else{
+                    <span style="color: #FF0000;">Not Featured</span>
+                }
+                @* @Html.DisplayFor(modelItem => item.IsFeaturedHotel)  *@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HotelCityNavigation.CityName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-controller="Hotel" asp-route-id="@item.HotelId">Edit</a> |
+                <a asp-action="Details" asp-controller="Hotel"  asp-route-id="@item.HotelId">Details</a> |
+                <a asp-action="Delete" asp-controller="Hotel" asp-route-id="@item.HotelId">Delete</a>
+            </td>
+            <td>
+                <a asp-action="HotelRooms" asp-route-id="@item.HotelId" asp-route-hotelName="@item.HotelName" type="button" class="btn btn-primary btn-sm" style="background-color: #4154f1;">Rooms</a>
+            </td>
+            <td>
+                <a asp-action="HotelServices" asp-route-id="@item.HotelId" asp-route-hotelName="@item.HotelName" type="button" class="btn btn-primary btn-sm" style="background-color: #4154f1;">Services</a>
+            </td>
+        </tr>
+}
+    
+ </tbody>    </tbody>
+</table>

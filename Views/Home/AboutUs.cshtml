@@ -1,0 +1,33 @@
+﻿@model HomePage; 
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "About Us";
+    Layout = "/Views/Shared/_HomeLayout.cshtml";
+}
+
+<!-- About Section -->
+<section id="about" class="about section">
+
+    <div class="container" style="margin-bottom:100px">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-5 position-relative" style="height:200px; object-fit: cover;  max-width: 50%;" data-aos="fade-up" data-aos-delay="200">
+                <img src="@Url.Content("~/AboutImages/"+Model.AboutUsPicture)" asp-append-version="true" class="img-fluid" alt="">
+                @*<a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>*@
+            </div>
+
+            <div class="col-lg-7 content" data-aos="fade-up" data-aos-delay="100">
+                <h3>About Us</h3>
+                <p>
+                    @Model.AboutUsParagraph;
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section><!-- /About Section -->

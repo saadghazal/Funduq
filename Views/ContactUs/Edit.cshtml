@@ -1,0 +1,52 @@
+@model funduq.Models.ContactU
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+<a asp-action="ContactUs" asp-controller="Admin" style="margin: 20px">
+    <i class="bi bi-arrow-left" style="color: #4154f1;font-size: large;"></i>
+    <span style="color: #4154f1;">Back</span>
+</a>
+
+<div class="pagetitle">
+
+    <h1>Edit Contact Us</h1>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="ContactId" />
+                <div class="form-group">
+                    <label asp-for="ContactUsPhoneNumber" class="control-label"></label>
+                    <input asp-for="ContactUsPhoneNumber" required class="form-control" />
+                    <span asp-validation-for="ContactUsPhoneNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ContactUsEmail" class="control-label"></label>
+                    <input asp-for="ContactUsEmail" required class="form-control" />
+                    <span asp-validation-for="ContactUsEmail" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ContactUsAddress" class="control-label"></label>
+                    <input asp-for="ContactUsAddress" required class="form-control" />
+                    <span asp-validation-for="ContactUsAddress" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ContactUsOpenDays" class="control-label"></label>
+                    <input asp-for="ContactUsOpenDays" required class="form-control" />
+                    <span asp-validation-for="ContactUsOpenDays" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ContactUsOpenHours" class="control-label"></label>
+                    <input asp-for="ContactUsOpenHours" required class="form-control" />
+                    <span asp-validation-for="ContactUsOpenHours" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" style="border: none; background-color: #4154f1;" />
+                </div>
+            </form>
+        </div>
+    </div>

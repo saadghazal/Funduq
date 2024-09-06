@@ -1,0 +1,40 @@
+@model IEnumerable<funduq.Models.City>
+
+@{
+    ViewData["Title"] = "Cities";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="pagetitle">
+<h1>Cities</h1>
+</div>
+
+
+<p>
+    <a asp-action="Create" asp-controller="City">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                City Name
+                @* @Html.DisplayNameFor(model => model.CityName) *@
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-controller="City" asp-route-id="@item.CityId">Edit</a> |
+                <a asp-action="Details" asp-controller="City" asp-route-id="@item.CityId">Details</a> |
+                <a asp-action="Delete" asp-controller="City" asp-route-id="@item.CityId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,419 @@
+﻿@model Tuple<HomePage, IEnumerable<Hotel>, ContactU,IEnumerable<Testimonial>>;
+
+@{
+    ViewBag.Title = "Home Page";
+}
+@{
+    Layout = "/Views/Shared/_HomeLayout.cshtml";
+}
+
+<style>
+    .search {
+        position: relative;
+        margin-top: 20px;
+    }
+
+        .search input {
+            height: 60px;
+            border: 1px solid #4154f1;
+        }
+            .search input:focus {
+                box-shadow: none;
+                border: 2px solid #4154f1;
+            }
+
+        .search .fa-search {
+            position: absolute;
+            top: 20px;
+            left: 16px;
+        }
+
+        .search button {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            height: 50px;
+            width: 110px;
+            background: #4154f1;
+            border-radius: 20px;
+        }
+
+    .search {
+        position: relative;
+        display: flex;
+        align-items: center;
+    }
+
+        .search input[type="text"] {
+            width: 100%;
+            padding-right: 90px; /* Add enough padding to accommodate the button */
+        }
+
+        .search input[type="submit"] {
+            position: absolute;
+            right: 0;
+            top: 0;
+            height: 100%;
+            border-radius: 0 5px 5px 0; /* Optional: round the right corners */
+        }
+</style>
+
+<!-- Hero Section -->
+<section id="hero" class="hero section dark-background">
+
+    <img src="@Url.Content("~/HomeBackgrounds/"+Model.Item1.BackgroundImage)" asp-append-version="true" alt="" data-aos="fade-in">
+
+    <div class="container text-center" data-aos="fade-up" data-aos-delay="100">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <h2>@Model.Item1.TopTitle</h2>
+                <p>@Model.Item1.TopSubtitle</p>
+                <div class="container">
+                    <form method="get" asp-action="SearchedHotels" asp-controller="Search">
+                        <div class="row height d-flex justify-content-center align-items-center">
+                            <div class="col-md-8">
+                                <div class="search position-relative">
+
+                                    <input type="text" name="value" id="value" class="form-control" placeholder="@Model.Item1.SearchPlacholder" style="padding-right: 100px;">
+                                    <input type="submit" value="Search" class="btn btn-primary position-absolute" style="background-color: #4154f1; right: 0; top: 0; height: 100%; border-radius: 0 5px 5px 0;">
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+</section><!-- /Hero Section -->
+<!-- About Section -->
+<section id="about" class="about section">
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-5 position-relative" style="height:200px; object-fit: cover;  max-width: 50%;" data-aos="fade-up" data-aos-delay="200">
+                <img src="@Url.Content("~/AboutImages/"+Model.Item1.AboutUsPicture)" asp-append-version="true" class="img-fluid" alt="">
+                @*<a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>*@
+            </div>
+
+            <div class="col-lg-7 content" data-aos="fade-up" data-aos-delay="100">
+                <h3>About Us</h3>
+                <p>
+                    @Model.Item1.AboutUsParagraph;
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section><!-- /About Section -->
+<!-- Why Us Section -->
+@*
+      <section id="why-us" class="why-us section">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <h2>Why Us</h2>
+            <div><span>Check Out</span> <span class="description-title">Why Us</span></div>
+        </div><!-- End Section Title -->
+
+        <div class="container">
+
+            <div class="row gy-4">
+
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="card-item">
+                        <span>01</span>
+                        <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
+                        <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+                    </div>
+                </div><!-- Card Item -->
+
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="card-item">
+                        <span>02</span>
+                        <h4><a href="" class="stretched-link">Repellat Nihil</a></h4>
+                        <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+                    </div>
+                </div><!-- Card Item -->
+
+                <div class="col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="card-item">
+                        <span>03</span>
+                        <h4><a href="" class="stretched-link">Ad ad velit qui</a></h4>
+                        <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+                    </div>
+                </div><!-- Card Item -->
+
+            </div>
+
+        </div>
+
+    </section>
+*@
+<!-- /Why Us Section -->
+<!-- Stats Section -->
+@*
+        <section id="stats" class="stats section">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row gy-4">
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="stats-item text-center w-100 h-100">
+                        <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Clients</p>
+                    </div>
+                </div><!-- End Stats Item -->
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="stats-item text-center w-100 h-100">
+                        <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Projects</p>
+                    </div>
+                </div><!-- End Stats Item -->
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="stats-item text-center w-100 h-100">
+                        <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Hours Of Support</p>
+                    </div>
+                </div><!-- End Stats Item -->
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="stats-item text-center w-100 h-100">
+                        <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Workers</p>
+                    </div>
+                </div><!-- End Stats Item -->
+
+            </div>
+
+        </div>
+
+    </section>
+*@
+
+<!-- Call To Action Section -->
+@*
+        <section id="call-to-action" class="call-to-action section dark-background">
+
+        <img src="assets/img/cta-bg.jpg" alt="">
+
+        <div class="container">
+            <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                <div class="col-xl-10">
+                    <div class="text-center">
+                        <h3>Call To Action</h3>
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        <a class="cta-btn" href="#">Call To Action</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+*@
+<!-- /Call To Action Section -->
+<!-- Services Section -->
+<!-- Portfolio Section -->
+
+
+<section id="featured" class="portfolio section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Featured</h2>
+        <div><span>Check Our</span> <span class="description-title">Featured Hotels</span></div>
+    </div><!-- End Section Title -->
+   
+    <div class="container">
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+
+            <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+                @foreach (var hotel in @Model.Item2)
+                {
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item">
+                        <div class="portfolio-content h-100">
+                            <img src="@Url.Content("~/HotelsImages/"+hotel.HotelPicture)" asp-append-version="true" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4><a asp-action="HotelPage" asp-route-hotelId="@hotel.HotelId" title="More Details">@hotel.HotelName</a></h4>
+                                <ul style="margin:0; padding:0;">
+                                    @for (var i = 1; i <= hotel.NumberOfStars; i++)
+                                    {
+                                        <li style="display:inline;color:gold;">
+                                            <i class="bi bi-star-fill"></i>
+                                        </li>
+
+                                    }
+                                </ul>
+
+                            </div>
+                        </div>
+                    </div><!-- End Portfolio Item -->
+                }
+            </div><!-- End Portfolio Container -->
+
+        </div>
+
+    </div>
+
+</section><!-- /Portfolio Section -->
+<!-- Team Section -->
+<!-- Testimonials Section -->
+<section id="testimonials" class="testimonials section dark-background" style="margin-top: 40px">
+
+    <img src="@ViewBag.TBackgroundImage" asp-append-version="true" class="testimonials-bg" alt="">
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="swiper init-swiper">
+            <script type="application/json" class="swiper-config">
+                {
+                  "loop": true,
+                  "speed": 600,
+                  "autoplay": {
+                    "delay": 5000
+                  },
+                  "slidesPerView": "auto",
+                  "pagination": {
+                    "el": ".swiper-pagination",
+                    "type": "bullets",
+                    "clickable": true
+                  }
+                }
+            </script>
+            <div class="swiper-wrapper">
+
+                @foreach (var testmonial in Model.Item4)
+                {
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <img src="@Url.Content("~/UsersImages/"+testmonial.User.ProfilePicture)" class="testimonial-img" alt="" style="clip-path:circle();object-fit:cover">
+                            <h3>@testmonial.User.FirstName @testmonial.User.LastName</h3>
+                            <div class="stars">
+                                @for (var i = 1; i <= testmonial.Rating; i++)
+                                {
+
+                                    <i class="bi bi-star-fill"></i>
+
+                                }
+                            </div>
+
+                            <p>
+                                <i class="bi bi-quote quote-icon-left"></i>
+                                <span>@testmonial.UserOpinion</span>
+                                <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                }
+
+            </div>
+            <div class="swiper-pagination"></div>
+
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Contact Section -->
+<section id="contact" class="contact section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <div><span>Check Our</span> <span class="description-title">Contact</span></div>
+    </div><!-- End Section Title -->
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        @if (TempData["Alert"] != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                @TempData["Alert"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+
+        <div class="row gy-4">
+
+            <div class="col-lg-4">
+                <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                    <i class="bi bi-geo-alt flex-shrink-0"></i>
+                    <div>
+                        <h3>Address</h3>
+                        <p>@Model.Item3.ContactUsAddress</p>
+                    </div>
+                </div><!-- End Info Item -->
+
+                <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                    <i class="bi bi-telephone flex-shrink-0"></i>
+                    <div>
+                        <h3>Call Us</h3>
+                        <p>@Model.Item3.ContactUsPhoneNumber</p>
+                    </div>
+                </div><!-- End Info Item -->
+
+                <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="500">
+                    <i class="bi bi-envelope flex-shrink-0"></i>
+                    <div>
+                        <h3>Email Us</h3>
+                        <p>@Model.Item3.ContactUsEmail</p>
+                    </div>
+                </div><!-- End Info Item -->
+                <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                    <i class="bi bi-clock flex-shrink-0"></i>
+                    <div>
+                        <h3>Open Hours</h3>
+                        <p>@Model.Item3.ContactUsOpenDays <br /> @Model.Item3.ContactUsOpenHours</p>
+                    </div>
+                </div><!-- End Info Item -->
+            </div>
+
+            <div class="col-lg-8">
+                <form asp-action="ContactUs" method="post" data-aos="fade-up" data-aos-delay="200">
+                    <div class="row gy-4">
+                        <input hidden name="contactUsEmail" value="@Model.Item3.ContactUsEmail" />
+
+                        <div class="col-md-6">
+                            <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" required="">
+                        </div>
+
+                        <div class="col-md-6 ">
+                            <input type="email" class="form-control" id="userEmail" name="userEmail" placeholder="Your Email" required="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <textarea class="form-control" name="message" id="message" rows="6" placeholder="Message" required=""></textarea>
+                        </div>
+
+                        <div class="col-md-12 text-center">
+                            <button class="btn btn-primary" type="submit" style="border: none; background-color: #4154f1;width:100%;border-radius:20px">Send Message</button>
+
+                        </div>
+
+                    </div>
+                </form>
+            </div><!-- End Contact Form -->
+
+        </div>
+
+    </div>
+
+</section><!-- /Contact Section -->

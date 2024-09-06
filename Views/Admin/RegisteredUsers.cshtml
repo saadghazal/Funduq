@@ -1,0 +1,52 @@
+﻿@model IEnumerable<UserCredential>;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Users";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+
+}
+
+
+<!-- Top Selling -->
+<div class="col-12">
+    <div class="card top-selling overflow-auto">
+
+        
+
+        <div class="card-body pb-0">
+            <h5 class="card-title">Registered Users</h5>
+
+            <table class="table table-borderless">
+                <thead>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Profile Picture</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Full Name</th>
+                        <th scope="col">Phone Number</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var profile in Model)
+                    {
+                        <tr>
+                            <td>@profile.UserId</td>
+
+                            <th scope="row"><a asp-route-userId="@profile.UserId" asp-action="UserDetails"> <img src="@Url.Content("~/UsersImages/"+profile.User.ProfilePicture)" asp-append-version="true" style="height:50px; width: 50px;object-fit:cover;clip-path:circle()" alt=""></a></th>
+                            <td>@profile.Email</td>
+                            <td>@profile.User.FirstName @profile.User.LastName</td>
+                            <td class="fw-bold">@profile.User.PhoneNumber</td>
+
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+
+        </div>
+
+    </div>
+</div><!-- End Top Selling -->

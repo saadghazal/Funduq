@@ -1,0 +1,55 @@
+@model funduq.Models.ContactU
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+<a asp-action="ContactUs" asp-controller="Admin" style="margin: 20px">
+    <i class="bi bi-arrow-left" style="color: #4154f1;font-size: large;"></i>
+    <span style="color: #4154f1;">Back</span>
+</a>
+
+<div class="pagetitle">
+    <h1>Details</h1>
+</div>
+
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Phone Number
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactUsPhoneNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            Contact Email
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactUsEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            Address
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactUsAddress)
+        </dd>
+        <dt class = "col-sm-2">
+            Open Days
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactUsOpenDays)
+        </dd>
+        <dt class = "col-sm-2">
+            Open Hours
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactUsOpenHours)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ContactId">Edit</a>
+
+</div>
